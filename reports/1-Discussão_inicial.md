@@ -41,3 +41,9 @@ SELECT * FROM `aluno` WHERE `media_final` IS NULL AND `curso_concluido` = 1;
 ![alt text](image-4.png)
 
 
+## 2. Verificação das relações entre média de entrada e média final
+
+Verificando a correlação entre as variáveis, observou-se um fenômeno inconsistente:
+![alt text](image-5.png)
+
+A correlação calculada indica que as médias se comportam de forma inversamente proporcionais, ou seja, quanto maior a nota de entrada, menor a nota de saída e vice-versa. Faz sentido?
