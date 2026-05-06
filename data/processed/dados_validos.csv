@@ -1,0 +1,1733 @@
+﻿nr_aluno,nome,apelido,curso,media_entrada,curso_concluido,media_final
+20031358,Leonardo,Pires,Psicologia,15.0,1,16.0
+2022158,Raquel,Laranjeira,Informática,17.0,1,11.0
+2003812,Anne,Silva,Informática,16.0,1,16.0
+2022901,Patrícia,Castelo-Branco,Informática,11.0,1,17.0
+2019303,Avelino,Sampaio,Comunicação,13.0,1,18.0
+2020151,Beatriz,Laranjeira,Psicologia,10.0,1,18.0
+20191405,Diana,Morais,Psicologia,19.0,1,11.0
+2022311,Catarina,Cintra,Comunicação,20.0,1,10.0
+20071496,Leonardo,Laranjeira,Comunicação,11.0,1,17.0
+2019178,Marta,Pires,Informática,14.0,1,14.0
+2020101,Avelino,Silva,Informática,17.0,1,11.0
+2007581,Rita,Morais,Comunicação,14.0,1,14.0
+20071110,Alice,Castelo-Branco,Informática,17.0,1,11.0
+20221081,Sandra,Pires,Comunicação,17.0,1,13.0
+2007330,Alice,Laranjeira,Comunicação,14.0,1,14.0
+2021798,Nuno,Castelo,Informática,12.0,1,17.0
+20211269,Marta,da Silva,Comunicação,13.0,1,17.0
+2021417,Carla,Castelo-Branco,Informática,16.0,1,14.0
+20211059,Rui,Pereira,Informática,10.0,1,17.0
+201989,Avelino,Castelo-Branco,Comunicação,15.0,1,14.0
+20031539,Anne,Laranjeira,Informática,15.0,1,16.0
+2007444,Maria João,Sampaio,Comunicação,20.0,1,13.0
+20191156,Rita,Morais,Informática,13.0,1,20.0
+2022165,Pedro,Cintra,Psicologia,20.0,1,10.0
+20221710,Christos,Machado,Comunicação,15.0,1,14.0
+2003821,Nuno,Laranjeira,Psicologia,16.0,0,
+200739,Alice,Pires,Psicologia,17.0,0,
+2003485,Alice,Pires,Psicologia,13.0,0,
+20211052,Raquel,Castelo,Comunicação,16.0,0,
+2022188,Jorge,da Silva,Comunicação,14.0,1,16.0
+2019409,Rita,Cintra,Informática,10.0,1,19.0
+20201647,Maria João,Cintra,Psicologia,12.0,1,17.0
+20221621,Lucas,Laranjeira,Psicologia,20.0,1,10.0
+20031399,Alice,Pires,Psicologia,17.0,1,13.0
+2019472,Avelino,Capicua,Informática,14.0,1,14.0
+20191349,Catarina,Castelo,Informática,18.0,1,11.0
+20221391,Jorge,Castelo-Branco,Informática,17.0,1,13.0
+2007716,Avelino,da Silva,Informática,12.0,1,19.0
+202247,Olivia,Pires,Informática,12.0,1,20.0
+20191494,Joana,Castelo,Psicologia,15.0,0,
+20211223,Christos,Cintra,Comunicação,11.0,1,17.0
+20191453,Lucas,Castelo,Informática,12.0,1,19.0
+2022865,Lucas,Morais,Informática,12.0,1,19.0
+20211664,Beatriz,Capicua,Informática,16.0,0,
+20071069,Christos,Machado,Informática,20.0,1,12.0
+2022848,Carla,Pereira,Psicologia,17.0,0,
+20221501,Avelino,Castelo,Psicologia,17.0,1,13.0
+2003504,Beatriz,Laranjeira,Comunicação,12.0,0,
+20031449,Lucas,Sampaio,Comunicação,13.0,1,18.0
+2022891,Patrícia,Capicua,Psicologia,18.0,1,10.0
+20191170,Olivia,Sampaio,Psicologia,15.0,1,16.0
+2007293,Michaelangelo,Laranjeira,Comunicação,20.0,1,11.0
+2020537,Maria João,Sampaio,Comunicação,12.0,0,
+2019950,Rui,Machado,Comunicação,13.0,1,19.0
+20221277,Rui,Sampaio,Informática,10.0,1,18.0
+2003665,Michaelangelo,Machado,Psicologia,20.0,1,12.0
+200757,Maria João,Capicua,Psicologia,10.0,1,17.0
+20211024,Bruno,Morais,Comunicação,10.0,1,18.0
+20211101,Catarina,Morais,Informática,20.0,1,10.0
+20201643,Avelino,Machado,Comunicação,17.0,1,12.0
+2021164,Miguel,Castelo,Informática,13.0,1,19.0
+2003853,Sandra,Silva,Comunicação,11.0,1,20.0
+2019368,Christos,Capicua,Psicologia,13.0,1,19.0
+2021328,Rita,Cintra,Informática,19.0,1,11.0
+20221550,Maria João,Castelo,Psicologia,17.0,1,10.0
+2021774,Alice,Sampaio,Informática,11.0,1,19.0
+200367,Anne,Machado,Psicologia,14.0,1,16.0
+2021616,Avelino,da Silva,Comunicação,20.0,1,11.0
+2003108,Marta,Castelo,Informática,11.0,1,17.0
+20201547,Avelino,Pires,Comunicação,10.0,1,20.0
+20191116,Jorge,Morais,Informática,13.0,1,17.0
+20031072,Nuno,Pires,Comunicação,14.0,0,
+202189,Pedro,Sampaio,Psicologia,15.0,1,16.0
+20071409,Rita,Morais,Psicologia,14.0,1,16.0
+2210000,Thomas Anderson,(Neo),Informática,20.0,1,20.0
+200722,Catarina,da Silva,Psicologia,13.0,0,
+2021133,Rita,Pereira,Informática,20.0,1,13.0
+20191750,Anne,Cintra,Comunicação,12.0,0,
+2003502,Rui,Laranjeira,Informática,11.0,1,20.0
+20075396,Raquel,Silva,Informática,16.0,1,14.0
+20201725,Olivia,Pereira,Psicologia,16.0,1,14.0
+2022133,Ana,Silva,Informática,10.0,1,20.0
+20031002,Diana,Pereira,Psicologia,12.0,1,20.0
+2021794,Maria João,Morais,Informática,18.0,1,11.0
+20201497,Christos,Sampaio,Informática,13.0,1,17.0
+20201405,Christos,Morais,Comunicação,10.0,1,18.0
+20221087,Rodrigo,Morais,Informática,16.0,0,
+2021847,Patrícia,Pires,Psicologia,10.0,0,
+2022633,Michaelangelo,Machado,Comunicação,17.0,1,12.0
+20071699,Olivia,Castelo-Branco,Comunicação,15.0,1,14.0
+2007943,Miguel,Sampaio,Psicologia,18.0,1,11.0
+2021998,Rita,da Silva,Informática,12.0,1,19.0
+2007289,Rodrigo,Capicua,Informática,15.0,1,16.0
+2020851,Sandra,Capicua,Comunicação,12.0,1,17.0
+2007854,Anne,Castelo,Informática,16.0,1,14.0
+20201362,Michaelangelo,Morais,Informática,12.0,1,17.0
+20201534,Bruno,Castelo,Psicologia,11.0,1,18.0
+2020813,Avelino,Morais,Informática,18.0,1,12.0
+20211483,Maria João,Morais,Psicologia,12.0,1,18.0
+20221671,Nuno,Silva,Informática,18.0,1,12.0
+20071726,Carla,Machado,Comunicação,11.0,1,18.0
+2007103,Catarina,Castelo,Informática,14.0,0,
+20071293,Joana,Cintra,Psicologia,10.0,1,17.0
+20191155,Marta,Castelo-Branco,Psicologia,13.0,1,17.0
+20071017,Avelino,Morais,Psicologia,14.0,1,16.0
+20071533,Michaelangelo,Castelo,Informática,10.0,1,19.0
+20211323,Patrícia,Capicua,Comunicação,12.0,1,20.0
+20031315,Maria João,Pereira,Psicologia,15.0,1,15.0
+2021905,Pedro,Pires,Psicologia,16.0,1,16.0
+20201677,Beatriz,da Silva,Informática,10.0,1,19.0
+2022741,Lucas,Castelo-Branco,Comunicação,15.0,1,14.0
+20221355,Catarina,Pires,Psicologia,20.0,1,10.0
+2022864,Catarina,Sampaio,Informática,19.0,1,13.0
+2022334,Christos,Cintra,Informática,15.0,1,16.0
+20071135,Rui,Silva,Psicologia,13.0,1,17.0
+20031416,Ana,Laranjeira,Psicologia,15.0,1,15.0
+20201440,Pedro,Laranjeira,Informática,11.0,1,20.0
+202092,Lucas,Castelo-Branco,Psicologia,15.0,1,16.0
+2022512,Joana,Sampaio,Psicologia,17.0,1,10.0
+20221594,Jorge,Cintra,Informática,16.0,1,14.0
+200397,Miguel,Castelo-Branco,Comunicação,16.0,1,15.0
+2022141,Sandra,Laranjeira,Informática,18.0,1,13.0
+20031013,Nuno,Capicua,Informática,12.0,1,19.0
+20221113,Rita,Pires,Psicologia,11.0,1,18.0
+20211495,Diana,Silva,Psicologia,17.0,1,13.0
+20071587,Bruno,Morais,Psicologia,19.0,1,11.0
+2021283,Lucas,Pires,Informática,10.0,1,18.0
+202141,Rita,Cintra,Informática,14.0,1,16.0
+2003177,Olivia,da Silva,Psicologia,10.0,1,18.0
+2019960,Leonardo,Laranjeira,Psicologia,11.0,1,17.0
+20201500,Ana,Castelo,Informática,11.0,1,19.0
+2007511,Olivia,Sampaio,Psicologia,19.0,1,12.0
+2019806,Joana,Machado,Comunicação,15.0,1,16.0
+2021352,Pedro,Sampaio,Informática,11.0,1,19.0
+2007947,Rui,Pereira,Psicologia,18.0,1,13.0
+20221485,Raquel,da Silva,Comunicação,16.0,1,16.0
+20191299,Rui,Sampaio,Comunicação,17.0,1,12.0
+2022362,Avelino,Silva,Informática,19.0,1,10.0
+2022801,Anne,da Silva,Comunicação,17.0,1,13.0
+2021543,Maria João,Cintra,Psicologia,17.0,1,11.0
+2022186,Bruno,Capicua,Informática,19.0,1,13.0
+20191559,Olivia,Machado,Comunicação,20.0,1,11.0
+20221384,Miguel,Cintra,Informática,13.0,1,19.0
+2019792,Diana,Sampaio,Informática,20.0,1,13.0
+20031290,Miguel,Castelo-Branco,Psicologia,14.0,1,15.0
+2021291,Pedro,Morais,Psicologia,20.0,1,13.0
+20211722,Lucas,Morais,Comunicação,15.0,1,16.0
+2007248,Pedro,da Silva,Informática,19.0,1,13.0
+20211314,Joana,Pires,Informática,12.0,1,17.0
+2020850,Jorge,Laranjeira,Informática,17.0,1,13.0
+2020485,Rui,Silva,Comunicação,13.0,1,19.0
+2007928,Ana,Pereira,Comunicação,14.0,1,14.0
+20071432,Olivia,Silva,Psicologia,17.0,1,12.0
+20221441,Maria,Capicua,Comunicação,10.0,1,19.0
+2022146,Maria,Laranjeira,Informática,19.0,1,10.0
+2007558,Leonardo,Castelo,Informática,12.0,1,20.0
+2007213,Rita,Castelo-Branco,Informática,19.0,1,12.0
+2003768,Marta,Machado,Informática,16.0,1,14.0
+2021814,Pedro,Laranjeira,Comunicação,12.0,1,19.0
+2021751,Anne,Laranjeira,Comunicação,18.0,1,13.0
+20201623,Anne,Castelo-Branco,Comunicação,11.0,1,18.0
+20071027,Alice,Castelo,Informática,11.0,1,18.0
+2020806,Ana,Castelo,Informática,14.0,1,15.0
+2019256,Maria,da Silva,Informática,17.0,1,13.0
+20201288,Pedro,Pires,Comunicação,15.0,1,16.0
+2022914,Rodrigo,Laranjeira,Informática,14.0,1,15.0
+2019188,Rita,Capicua,Comunicação,16.0,1,16.0
+20201658,Patrícia,Silva,Informática,15.0,1,15.0
+20221511,Rita,Cintra,Informática,13.0,1,18.0
+20221313,Diana,da Silva,Informática,18.0,1,11.0
+2021304,Bruno,Sampaio,Informática,12.0,1,17.0
+20071564,Raquel,Morais,Informática,12.0,1,20.0
+2003185,Joana,Sampaio,Informática,18.0,1,13.0
+2021137034,Rodrigo,Laranjeira,Psicologia,15.0,1,16.0
+2003522,Michaelangelo,Sampaio,Comunicação,19.0,1,12.0
+2290110,Anakin Skywalker,(Lord Vader),Psicologia,20.0,1,20.0
+20211356,Avelino,Capicua,Comunicação,20.0,1,11.0
+20191721,Miguel,Laranjeira,Psicologia,14.0,1,14.0
+2019156,Lucas,Cintra,Comunicação,11.0,1,18.0
+20221346,Anne,Sampaio,Informática,10.0,1,19.0
+2021229,Anne,Castelo,Psicologia,12.0,1,20.0
+20191267,Maria João,Capicua,Psicologia,20.0,1,11.0
+2003865,Jorge,Pires,Informática,20.0,1,12.0
+2019845,Nuno,Laranjeira,Comunicação,16.0,1,14.0
+20191018,Anne,Pereira,Informática,10.0,1,17.0
+2003421,Nuno,Morais,Informática,12.0,1,20.0
+2022129,Rui,Capicua,Psicologia,17.0,1,11.0
+2007860,Olivia,Pires,Informática,11.0,1,20.0
+2021961,Alice,Morais,Psicologia,17.0,1,13.0
+2022845,Rita,Machado,Informática,12.0,1,19.0
+20211283,Rui,Laranjeira,Comunicação,12.0,1,20.0
+20221523,Michaelangelo,Machado,Informática,17.0,1,13.0
+20211060,Ana,Pires,Psicologia,12.0,1,17.0
+2003443,Rodrigo,Pereira,Psicologia,20.0,1,11.0
+20201624,Lucas,Cintra,Comunicação,10.0,1,20.0
+20071202,Miguel,Morais,Psicologia,10.0,1,17.0
+2007927,Nuno,Pires,Informática,11.0,1,20.0
+2020976,Miguel,Morais,Comunicação,14.0,1,15.0
+2022170,Michaelangelo,Machado,Psicologia,13.0,1,18.0
+20031198,Marta,Pereira,Comunicação,17.0,1,10.0
+2021394,Rita,Cintra,Psicologia,10.0,1,18.0
+2003994,Miguel,Morais,Comunicação,12.0,1,20.0
+2003207,Alice,Castelo-Branco,Informática,17.0,1,13.0
+20031556,Nuno,Laranjeira,Psicologia,15.0,1,15.0
+2019133,Alice,Silva,Psicologia,16.0,1,16.0
+20201663,Maria,Cintra,Comunicação,19.0,1,11.0
+2021639,Michaelangelo,Castelo,Informática,17.0,1,10.0
+20201003,Olivia,Morais,Psicologia,11.0,1,19.0
+2021682,Christos,Machado,Informática,20.0,1,10.0
+20191137,Nuno,Morais,Psicologia,13.0,1,19.0
+2019295,Lucas,Pereira,Psicologia,17.0,1,13.0
+20191009,Catarina,Silva,Psicologia,18.0,1,10.0
+20191291,Rodrigo,Sampaio,Psicologia,17.0,1,12.0
+2020972,Alice,da Silva,Informática,20.0,1,13.0
+20071708,Patrícia,Castelo-Branco,Comunicação,10.0,1,19.0
+200383840,Miguel,Capicua,Informática,14.0,1,15.0
+20201161,Leonardo,Laranjeira,Comunicação,20.0,1,10.0
+20211342,Carla,Sampaio,Comunicação,13.0,1,17.0
+2021337,Anne,Capicua,Comunicação,14.0,1,14.0
+20211741,Joana,Cintra,Informática,11.0,1,20.0
+20191199,Catarina,Pereira,Informática,15.0,1,14.0
+20071275,Rodrigo,Pereira,Informática,20.0,1,13.0
+2021915,Maria João,Capicua,Psicologia,10.0,1,20.0
+20031095,Christos,Cintra,Psicologia,17.0,1,13.0
+2020206,Michaelangelo,Capicua,Psicologia,14.0,1,15.0
+2022643,Anne,Castelo,Psicologia,17.0,1,10.0
+2020648,Alice,Cintra,Psicologia,20.0,1,11.0
+2020701,Lucas,Morais,Informática,13.0,1,19.0
+2020719,Christos,Castelo,Psicologia,10.0,1,17.0
+20211435,Bruno,Silva,Informática,18.0,1,12.0
+2022307,Ana,Pereira,Comunicação,10.0,1,17.0
+2021364,Rodrigo,Capicua,Psicologia,16.0,1,15.0
+20221112,Christos,Capicua,Informática,11.0,1,20.0
+20201426,Marta,da Silva,Psicologia,15.0,1,15.0
+2020582,Alice,Silva,Psicologia,14.0,1,16.0
+2003951,Carla,Pires,Informática,13.0,1,18.0
+2019977,Sandra,da Silva,Comunicação,11.0,1,17.0
+20221537,Lucas,Castelo,Comunicação,14.0,1,16.0
+2022788,Michaelangelo,Sampaio,Psicologia,14.0,1,14.0
+2022769,Nuno,Laranjeira,Comunicação,20.0,1,11.0
+20191629,Maria,Sampaio,Comunicação,17.0,1,13.0
+20201068,Pedro,Castelo,Comunicação,10.0,1,20.0
+20221369,Marta,Castelo-Branco,Psicologia,11.0,1,20.0
+20201347,Alice,Cintra,Psicologia,11.0,1,20.0
+2020177,Rita,Sampaio,Informática,20.0,1,13.0
+20201108,Leonardo,Machado,Psicologia,12.0,1,19.0
+20031030,Lucas,Castelo,Informática,17.0,1,11.0
+20031246,Nuno,Cintra,Comunicação,19.0,1,10.0
+202226,Pedro,Sampaio,Psicologia,15.0,1,14.0
+2003189,Rodrigo,Morais,Comunicação,10.0,1,19.0
+20191283,Nuno,Castelo-Branco,Comunicação,10.0,1,17.0
+20031401,Maria,Pires,Psicologia,11.0,1,18.0
+2020845,Michaelangelo,Castelo-Branco,Psicologia,17.0,1,13.0
+20071347,Nuno,Sampaio,Comunicação,14.0,1,16.0
+201985,Ana,da Silva,Comunicação,17.0,1,13.0
+2022571,Jorge,Morais,Informática,16.0,1,16.0
+2021785,Nuno,Castelo-Branco,Comunicação,14.0,1,15.0
+2003757,Carla,Machado,Psicologia,18.0,1,13.0
+2003992,Lucas,Pereira,Psicologia,13.0,1,19.0
+20211487,Michaelangelo,Castelo-Branco,Informática,16.0,1,15.0
+20221382,Jorge,Morais,Psicologia,12.0,1,20.0
+20221185,Marta,Silva,Informática,10.0,1,17.0
+2020463,Catarina,Laranjeira,Informática,17.0,1,10.0
+20191106,Sandra,Pires,Comunicação,18.0,1,12.0
+2003858,Anne,Morais,Informática,11.0,1,20.0
+20191535,Patrícia,Capicua,Psicologia,16.0,1,14.0
+2022486,Michaelangelo,Castelo,Psicologia,10.0,1,20.0
+2020599,Ana,Morais,Comunicação,13.0,1,20.0
+20211482,Diana,Castelo,Comunicação,10.0,1,17.0
+20201442,Raquel,Laranjeira,Psicologia,15.0,1,16.0
+2003359,Sandra,Machado,Psicologia,16.0,1,14.0
+20201258,Rita,Castelo-Branco,Comunicação,11.0,1,18.0
+20221268,Avelino,Sampaio,Comunicação,10.0,1,18.0
+2022560,Joana,da Silva,Psicologia,13.0,1,18.0
+2021925,Leonardo,Silva,Informática,13.0,1,20.0
+2021382,Rui,Cintra,Comunicação,17.0,1,13.0
+2210100,Luke,Skywalker,Comunicação,20.0,1,20.0
+2007806,Catarina,Castelo,Psicologia,19.0,1,11.0
+20221030,Lucas,Morais,Informática,16.0,1,15.0
+20201545,Leonardo,Sampaio,Psicologia,15.0,1,15.0
+20221462,Catarina,Machado,Informática,13.0,1,18.0
+20191507,Joana,da Silva,Informática,20.0,1,10.0
+2007791,Alice,Pereira,Informática,16.0,1,15.0
+2022402,Christos,Pires,Psicologia,18.0,1,10.0
+202017406,Miguel,Castelo,Psicologia,16.0,1,16.0
+200758,Beatriz,da Silva,Psicologia,17.0,1,13.0
+2021206,Maria João,Morais,Comunicação,12.0,1,19.0
+20031237,Rui,Pereira,Informática,16.0,1,14.0
+2020412,Maria João,Silva,Informática,11.0,1,18.0
+202219,Christos,Machado,Comunicação,20.0,1,11.0
+2007829,Michaelangelo,Castelo-Branco,Psicologia,13.0,1,19.0
+2019506,Sandra,Pires,Comunicação,14.0,1,16.0
+20221244,Miguel,da Silva,Comunicação,17.0,1,11.0
+2022726,Bruno,Cintra,Informática,18.0,1,11.0
+2021225,Avelino,Sampaio,Psicologia,14.0,1,15.0
+2007720,Marta,Silva,Informática,20.0,1,13.0
+20221037,Sandra,Morais,Informática,14.0,1,15.0
+20031281,Pedro,Castelo,Comunicação,12.0,1,20.0
+2007685,Rita,Cintra,Comunicação,13.0,1,20.0
+20031334,Carla,Pereira,Informática,19.0,1,11.0
+2007594,Miguel,Castelo-Branco,Comunicação,15.0,1,16.0
+2021170,Jorge,Capicua,Informática,14.0,1,15.0
+2020458,Ana,Capicua,Psicologia,18.0,1,13.0
+2007495,Jorge,Cintra,Informática,15.0,1,14.0
+20191472,Lucas,Silva,Informática,14.0,1,15.0
+20201243,Joana,Cintra,Informática,10.0,1,17.0
+2020194,Joana,Silva,Psicologia,10.0,1,18.0
+2020993,Lucas,Machado,Comunicação,19.0,1,13.0
+20221359,Rodrigo,da Silva,Informática,11.0,1,17.0
+2019705,Michaelangelo,Laranjeira,Informática,15.0,1,16.0
+2022804,Catarina,Castelo-Branco,Informática,11.0,1,20.0
+20071246,Rodrigo,da Silva,Psicologia,12.0,1,19.0
+20191466,Nuno,Castelo,Comunicação,15.0,1,14.0
+20221251,Maria,Machado,Informática,14.0,1,15.0
+2021968,Sandra,Silva,Comunicação,12.0,1,18.0
+20221189,Anne,Pires,Comunicação,17.0,1,12.0
+2003419,Avelino,Pereira,Psicologia,17.0,1,13.0
+201934,Michaelangelo,Castelo,Psicologia,14.0,1,16.0
+2021459,Jorge,Capicua,Psicologia,14.0,1,16.0
+2021419,Rodrigo,Sampaio,Psicologia,13.0,1,19.0
+2003173,Bruno,Capicua,Informática,17.0,1,10.0
+20221057,Rodrigo,Morais,Psicologia,14.0,1,14.0
+20071044,Jorge,Castelo,Informática,16.0,1,14.0
+2007699,Rodrigo,Castelo,Psicologia,13.0,1,19.0
+20211343,Carla,da Silva,Psicologia,14.0,1,15.0
+20201383,Jorge,Laranjeira,Informática,20.0,1,13.0
+202070,Maria,Castelo-Branco,Comunicação,20.0,1,12.0
+20221457,Maria João,Pereira,Informática,12.0,1,18.0
+20221126,Miguel,Morais,Comunicação,14.0,1,16.0
+2020190,Patrícia,Castelo-Branco,Comunicação,10.0,1,19.0
+2022523,Ana,Machado,Psicologia,12.0,1,19.0
+20191519,Jorge,Machado,Comunicação,20.0,1,10.0
+20201583,Michaelangelo,Castelo,Psicologia,12.0,1,19.0
+2021499,Olivia,Pires,Informática,19.0,1,10.0
+2003269,Joana,Morais,Comunicação,15.0,1,16.0
+2022346,Maria,da Silva,Informática,19.0,1,13.0
+20191708,Sandra,Silva,Comunicação,12.0,1,19.0
+20221681,Carla,da Silva,Comunicação,20.0,1,12.0
+2020483,Diana,Castelo-Branco,Comunicação,13.0,1,20.0
+200315,Anne,Morais,Psicologia,14.0,1,16.0
+20201253,Lucas,Pereira,Informática,11.0,1,19.0
+2020904,Carla,Castelo,Comunicação,14.0,1,16.0
+2022451,Jorge,Silva,Comunicação,18.0,1,13.0
+20071618,Miguel,Cintra,Psicologia,11.0,1,20.0
+20191311,Leonardo,Silva,Comunicação,11.0,1,17.0
+2007529,Sandra,Machado,Informática,13.0,1,17.0
+200779,Sandra,Castelo,Comunicação,19.0,1,11.0
+20221574,Rita,Cintra,Psicologia,13.0,1,20.0
+20201205,Alice,Sampaio,Comunicação,20.0,1,10.0
+2022299,Avelino,Castelo-Branco,Psicologia,13.0,1,18.0
+20071579,Avelino,Capicua,Informática,16.0,1,16.0
+2019572,Marta,Pires,Psicologia,10.0,1,17.0
+200776,Anne,Sampaio,Comunicação,11.0,1,20.0
+20071451,Pedro,Sampaio,Psicologia,20.0,1,10.0
+200371237,Lucas,Machado,Psicologia,11.0,1,18.0
+2022666,Beatriz,Morais,Informática,14.0,1,15.0
+20201223,Nuno,Pires,Psicologia,19.0,1,12.0
+200759,Joana,Castelo-Branco,Psicologia,19.0,1,10.0
+2007491,Miguel,Capicua,Comunicação,17.0,1,12.0
+20211158,Miguel,Silva,Informática,19.0,1,12.0
+20191426,Lucas,da Silva,Psicologia,11.0,1,19.0
+20211633,Leonardo,da Silva,Psicologia,18.0,1,10.0
+2022193,Rodrigo,Capicua,Psicologia,19.0,1,12.0
+20191045,Rodrigo,Sampaio,Comunicação,11.0,1,19.0
+20201428,Pedro,Castelo,Informática,13.0,1,19.0
+20211637,Pedro,Silva,Informática,12.0,1,18.0
+2003490,Rita,Castelo-Branco,Psicologia,20.0,1,11.0
+2021537,Nuno,Laranjeira,Informática,10.0,1,18.0
+200331,Beatriz,Castelo,Comunicação,19.0,1,12.0
+20071288,Rita,Silva,Comunicação,13.0,1,18.0
+20221654,Nuno,Castelo,Psicologia,11.0,1,19.0
+2020553,Leonardo,Sampaio,Comunicação,13.0,1,20.0
+20031408,Rui,Castelo,Informática,10.0,1,18.0
+20221300,Beatriz,Silva,Comunicação,20.0,1,11.0
+2003988,Rodrigo,Sampaio,Psicologia,13.0,1,20.0
+2003241,Catarina,Machado,Informática,11.0,1,18.0
+2019503,Catarina,Sampaio,Psicologia,17.0,1,10.0
+2022710,Olivia,Capicua,Informática,20.0,1,10.0
+2022184,Rita,Pereira,Psicologia,10.0,1,18.0
+2019388,Beatriz,Cintra,Psicologia,11.0,1,19.0
+20071512,Maria,Cintra,Informática,17.0,1,13.0
+20191197,Maria João,Morais,Psicologia,16.0,1,15.0
+20201080,Alice,Silva,Informática,10.0,1,18.0
+2007322,Beatriz,Castelo-Branco,Informática,11.0,1,17.0
+20211456,Avelino,Castelo,Informática,19.0,1,10.0
+2007321,Patrícia,Pires,Psicologia,19.0,1,10.0
+2003255,Michaelangelo,Silva,Comunicação,12.0,1,18.0
+20071343,Rita,Castelo-Branco,Informática,17.0,1,11.0
+20071244,Rita,Castelo-Branco,Informática,11.0,1,20.0
+20221624,Anne,Pires,Informática,19.0,1,13.0
+20221600,Pedro,Castelo,Informática,10.0,1,20.0
+2021890,Avelino,Sampaio,Comunicação,10.0,1,20.0
+2003708,Maria,Pereira,Comunicação,14.0,1,14.0
+20201730,Maria,Castelo,Psicologia,16.0,1,15.0
+2019927,Bruno,Morais,Comunicação,19.0,1,13.0
+20071464,Maria,Pires,Comunicação,20.0,1,12.0
+2021738,Jorge,Morais,Psicologia,17.0,1,12.0
+20221101,Bruno,Machado,Psicologia,20.0,1,12.0
+2021239,Anne,Castelo,Comunicação,14.0,1,14.0
+20211227,Christos,Capicua,Informática,13.0,1,17.0
+2003270,Joana,Castelo-Branco,Psicologia,14.0,1,15.0
+20211628,Leonardo,Laranjeira,Informática,12.0,1,20.0
+20221442,Carla,Sampaio,Psicologia,16.0,1,15.0
+2021254,Jorge,Cintra,Psicologia,20.0,1,13.0
+20221701,Avelino,Castelo-Branco,Comunicação,15.0,1,14.0
+202056,Ana,Castelo-Branco,Informática,15.0,1,15.0
+2020757,Olivia,Silva,Informática,20.0,1,10.0
+200771929,Rodrigo,Sampaio,Psicologia,11.0,1,17.0
+200335,Diana,Morais,Psicologia,14.0,1,15.0
+2007895,Beatriz,Morais,Psicologia,19.0,1,12.0
+2020187,Rodrigo,Castelo-Branco,Comunicação,19.0,1,12.0
+20211692,Lucas,da Silva,Psicologia,15.0,1,15.0
+2007660,Marta,Silva,Informática,17.0,1,13.0
+20031046,Sandra,da Silva,Informática,13.0,1,20.0
+20221118,Alice,Castelo,Comunicação,18.0,1,12.0
+2020964,Pedro,Laranjeira,Informática,20.0,1,13.0
+2007214,Jorge,Castelo,Comunicação,12.0,1,20.0
+2003217,Anne,Pires,Informática,18.0,1,11.0
+2019422,Christos,Laranjeira,Psicologia,19.0,1,10.0
+20201458,Miguel,Silva,Psicologia,20.0,1,13.0
+2019354,Beatriz,Machado,Psicologia,20.0,1,13.0
+20191115,Michaelangelo,Machado,Psicologia,10.0,1,19.0
+201993819,Marta,Morais,Informática,10.0,1,18.0
+20031230,Patrícia,Sampaio,Comunicação,15.0,1,15.0
+20221440,Sandra,Cintra,Informática,14.0,1,14.0
+2007191,Rui,Silva,Informática,13.0,1,18.0
+20191375,Sandra,Laranjeira,Comunicação,16.0,1,15.0
+2021597,Anne,Capicua,Psicologia,11.0,1,17.0
+2003513,Miguel,Sampaio,Psicologia,14.0,1,15.0
+2020147,Michaelangelo,Pires,Comunicação,20.0,1,11.0
+2021879,Ana,Castelo-Branco,Informática,14.0,1,16.0
+2007519,Lucas,Laranjeira,Informática,13.0,1,17.0
+2007521,Beatriz,Sampaio,Informática,18.0,1,10.0
+2022301,Leonardo,Sampaio,Psicologia,18.0,1,12.0
+20031328,Michaelangelo,Machado,Informática,10.0,1,18.0
+2003775,Catarina,Pires,Comunicação,20.0,1,10.0
+2019732,Rui,Laranjeira,Informática,18.0,1,10.0
+2022347,Anne,Cintra,Comunicação,19.0,1,12.0
+20191527,Maria,Machado,Comunicação,12.0,1,18.0
+2003438,Catarina,Pereira,Informática,11.0,1,17.0
+20221224,Maria João,Cintra,Informática,13.0,1,20.0
+2020830,Olivia,Machado,Psicologia,10.0,1,20.0
+20191432,Raquel,da Silva,Psicologia,19.0,1,12.0
+2022146725,Rita,Cintra,Psicologia,15.0,1,16.0
+20221115,Pedro,Castelo,Psicologia,15.0,1,15.0
+2022462,Alice,Laranjeira,Psicologia,12.0,1,18.0
+2020368,Catarina,Capicua,Psicologia,10.0,1,20.0
+2021864,Lucas,Silva,Comunicação,13.0,1,20.0
+2020704,Pedro,Capicua,Psicologia,14.0,1,15.0
+20221205,Sandra,Castelo,Psicologia,10.0,1,17.0
+20211507,Sandra,Cintra,Comunicação,18.0,1,11.0
+2021670,Michaelangelo,Capicua,Comunicação,14.0,1,14.0
+2022313,Alice,Morais,Psicologia,17.0,1,11.0
+2021484,Avelino,Sampaio,Informática,10.0,1,19.0
+2003885,Bruno,da Silva,Informática,16.0,1,14.0
+2022233,Ana,Machado,Psicologia,19.0,1,13.0
+20201049,Maria João,Sampaio,Informática,13.0,1,20.0
+20211305,Raquel,Silva,Comunicação,11.0,1,20.0
+20211131,Lucas,Silva,Comunicação,19.0,1,13.0
+20191740,Rui,Silva,Psicologia,12.0,1,17.0
+20071670,Anne,Castelo-Branco,Psicologia,19.0,1,13.0
+2022682,Rita,Pires,Informática,20.0,1,13.0
+2020120,Ana,Pires,Informática,18.0,1,13.0
+2007948,Maria João,Laranjeira,Comunicação,10.0,1,19.0
+20201410,Ana,Castelo-Branco,Comunicação,12.0,1,19.0
+2019996,Anne,Pereira,Informática,15.0,1,15.0
+2019101,Miguel,Pires,Informática,14.0,1,15.0
+20211477,Patrícia,Morais,Psicologia,20.0,1,10.0
+2007932,Bruno,Pereira,Comunicação,18.0,1,11.0
+20211439,Joana,Morais,Informática,10.0,1,19.0
+20071725,Rodrigo,Morais,Informática,10.0,1,17.0
+2021298,Rodrigo,Cintra,Psicologia,18.0,1,11.0
+2022554,Rodrigo,Morais,Comunicação,18.0,1,13.0
+20211308,Lucas,Silva,Psicologia,14.0,1,15.0
+2003571,Rui,Castelo,Informática,10.0,1,17.0
+20221530,Rita,Morais,Informática,20.0,1,11.0
+20031680,Jorge,Sampaio,Informática,16.0,1,14.0
+2019338,Christos,Pereira,Informática,14.0,1,15.0
+2003231,Sandra,Laranjeira,Psicologia,19.0,1,10.0
+20071264,Sandra,da Silva,Informática,20.0,1,13.0
+2003814,Rodrigo,da Silva,Informática,13.0,1,18.0
+2021819,Michaelangelo,Pires,Psicologia,17.0,1,12.0
+20191177,Marta,Capicua,Comunicação,17.0,1,13.0
+20191543,Avelino,da Silva,Comunicação,11.0,1,18.0
+20071711,Leonardo,Sampaio,Psicologia,17.0,1,12.0
+2007820,Pedro,Castelo-Branco,Informática,17.0,1,12.0
+2019596,Olivia,Castelo-Branco,Psicologia,20.0,1,10.0
+20211043,Lucas,Castelo-Branco,Informática,20.0,1,12.0
+2003962,Bruno,Castelo-Branco,Informática,19.0,1,13.0
+2022119,Jorge,Capicua,Informática,11.0,1,19.0
+202121,Diana,Silva,Comunicação,16.0,1,15.0
+2021152,Jorge,Castelo,Comunicação,19.0,1,13.0
+20191121,Raquel,Silva,Informática,20.0,1,11.0
+2021485,Marta,Laranjeira,Informática,12.0,1,19.0
+2020888,Anne,Sampaio,Informática,20.0,1,12.0
+2003232,Leonardo,da Silva,Informática,17.0,1,11.0
+20031158,Maria,Machado,Psicologia,18.0,1,11.0
+20201729,Nuno,da Silva,Psicologia,18.0,1,13.0
+2019900,Patrícia,Machado,Informática,12.0,1,18.0
+2020489,Miguel,Machado,Psicologia,14.0,1,15.0
+2003154,Rita,Pires,Psicologia,16.0,1,16.0
+2003364,Michaelangelo,Pires,Psicologia,17.0,1,12.0
+2022903,Rodrigo,da Silva,Comunicação,10.0,1,18.0
+202054,Maria João,Castelo,Psicologia,17.0,1,12.0
+20201332,Beatriz,Morais,Informática,14.0,1,14.0
+20211603,Jorge,Castelo,Psicologia,15.0,1,14.0
+20221065,Leonardo,Laranjeira,Comunicação,19.0,1,11.0
+2021538,Joana,Pires,Informática,13.0,1,18.0
+202011985,Maria João,Cintra,Informática,11.0,1,20.0
+2007643,Diana,Morais,Informática,18.0,1,10.0
+20031184,Catarina,Castelo-Branco,Comunicação,17.0,1,13.0
+20071448,Maria João,Silva,Psicologia,20.0,1,10.0
+202011493,Raquel,Morais,Psicologia,12.0,1,19.0
+2022165143,Pedro,Pires,Informática,14.0,1,16.0
+20191541,Rodrigo,Castelo-Branco,Comunicação,14.0,1,16.0
+2019511,Christos,Castelo-Branco,Comunicação,16.0,1,16.0
+2020118,Lucas,Machado,Informática,10.0,1,18.0
+200745150,Catarina,Pereira,Comunicação,18.0,1,10.0
+2020353,Leonardo,Pereira,Psicologia,14.0,1,14.0
+20201716,Rita,Capicua,Psicologia,15.0,1,14.0
+2021896,Raquel,Sampaio,Comunicação,11.0,1,19.0
+200326,Patrícia,da Silva,Psicologia,20.0,1,10.0
+2003224,Bruno,Castelo,Informática,19.0,1,12.0
+2003268,Michaelangelo,Capicua,Psicologia,13.0,1,20.0
+2021455,Alice,Sampaio,Psicologia,20.0,1,11.0
+20191069,Rodrigo,Cintra,Comunicação,13.0,1,20.0
+20031598,Avelino,Castelo-Branco,Informática,11.0,1,19.0
+2022413,Bruno,Capicua,Comunicação,14.0,1,14.0
+20201420,Christos,Morais,Psicologia,13.0,1,20.0
+201913,Bruno,da Silva,Psicologia,15.0,1,16.0
+20221196,Sandra,Morais,Informática,15.0,1,15.0
+202035,Michaelangelo,Laranjeira,Informática,17.0,1,12.0
+20191612,Marta,Cintra,Comunicação,12.0,1,19.0
+2019137,Maria João,da Silva,Informática,17.0,1,11.0
+20191614,Maria,Capicua,Informática,18.0,1,11.0
+2022964,Rodrigo,Machado,Psicologia,19.0,1,12.0
+20221071,Nuno,Castelo-Branco,Psicologia,15.0,1,14.0
+20031129,Rita,Castelo,Comunicação,20.0,1,13.0
+2020816,Jorge,Cintra,Comunicação,18.0,1,12.0
+2021909,Carla,da Silva,Comunicação,20.0,1,13.0
+2007547,Alice,Pereira,Comunicação,12.0,1,18.0
+20211479,Maria João,da Silva,Comunicação,16.0,1,15.0
+2022806,Christos,Castelo-Branco,Psicologia,20.0,1,12.0
+2022337,Raquel,Cintra,Informática,18.0,1,11.0
+20221646,Rodrigo,Castelo,Comunicação,18.0,1,10.0
+2020570,Patrícia,Silva,Psicologia,16.0,1,14.0
+2021799,Michaelangelo,Pires,Informática,14.0,1,16.0
+20031681,Jorge,Morais,Comunicação,18.0,1,12.0
+2022818,Raquel,da Silva,Comunicação,18.0,1,12.0
+20191277,Michaelangelo,da Silva,Psicologia,10.0,1,18.0
+20201603,Avelino,Pires,Psicologia,15.0,1,15.0
+2003391,Diana,Capicua,Informática,14.0,1,16.0
+20031696,Diana,Pires,Comunicação,18.0,1,13.0
+2020178,Maria João,Silva,Psicologia,19.0,1,13.0
+20071606,Nuno,Castelo-Branco,Psicologia,11.0,1,18.0
+20221274,Michaelangelo,Laranjeira,Informática,17.0,1,10.0
+2019827,Rita,Castelo-Branco,Psicologia,11.0,1,20.0
+2007222,Raquel,Pires,Comunicação,12.0,1,20.0
+2020661,Anne,Pires,Comunicação,17.0,1,13.0
+20201121,Joana,da Silva,Psicologia,10.0,1,20.0
+20031074,Avelino,Machado,Informática,11.0,1,20.0
+2022930,Leonardo,Laranjeira,Informática,13.0,1,17.0
+2019982,Diana,Castelo,Informática,19.0,1,13.0
+2007273,Nuno,Pereira,Informática,12.0,1,17.0
+2003170,Patrícia,Cintra,Comunicação,11.0,1,20.0
+2021456,Jorge,Castelo,Comunicação,15.0,1,16.0
+2019198,Rita,Cintra,Informática,16.0,1,15.0
+20221339,Bruno,Silva,Comunicação,18.0,1,11.0
+2003715,Jorge,Capicua,Comunicação,18.0,1,12.0
+20191586,Marta,Silva,Psicologia,10.0,1,17.0
+20211194,Maria João,Castelo-Branco,Psicologia,10.0,1,18.0
+2019539,Avelino,Pires,Psicologia,11.0,1,18.0
+2019672,Rita,da Silva,Comunicação,19.0,1,12.0
+20191716,Miguel,Cintra,Psicologia,17.0,1,11.0
+2020234,Rui,Silva,Informática,12.0,1,18.0
+2022352,Alice,Morais,Informática,15.0,1,16.0
+20031662,Avelino,Silva,Psicologia,20.0,1,12.0
+2022135,Miguel,Capicua,Comunicação,12.0,1,19.0
+20211128,Olivia,Pires,Informática,19.0,1,11.0
+20031511,Rita,Pereira,Psicologia,15.0,1,16.0
+2021141,Diana,Morais,Informática,15.0,1,16.0
+2003886,Ana,Castelo,Informática,15.0,1,14.0
+202259,Miguel,Castelo,Comunicação,13.0,1,18.0
+2007762,Olivia,Castelo,Psicologia,19.0,1,11.0
+2021561,Lucas,Castelo-Branco,Informática,20.0,1,11.0
+2019429,Pedro,Cintra,Informática,11.0,1,17.0
+2007992,Rodrigo,Cintra,Psicologia,14.0,1,14.0
+2003289,Leonardo,Cintra,Psicologia,14.0,1,14.0
+20211029,Sandra,Sampaio,Psicologia,16.0,1,16.0
+2007768,Lucas,da Silva,Psicologia,13.0,1,19.0
+2020881,Bruno,Pires,Psicologia,14.0,1,15.0
+2020928,Lucas,Castelo,Comunicação,14.0,1,16.0
+2019296,Rodrigo,Silva,Psicologia,15.0,1,15.0
+2019410,Carla,Morais,Comunicação,11.0,1,20.0
+2003353,Anne,Machado,Informática,13.0,1,19.0
+201946,Rui,Sampaio,Psicologia,18.0,1,13.0
+20201403,Catarina,Sampaio,Informática,15.0,1,16.0
+2020348,Rodrigo,Laranjeira,Informática,12.0,1,17.0
+2019704,Bruno,Machado,Informática,18.0,1,10.0
+201945,Carla,Morais,Psicologia,12.0,1,18.0
+20191600,Marta,Castelo,Comunicação,19.0,1,11.0
+20071494,Sandra,Machado,Informática,20.0,1,10.0
+20031377,Olivia,Laranjeira,Informática,16.0,1,16.0
+20221629,Avelino,Castelo-Branco,Psicologia,14.0,1,15.0
+20071349,Jorge,Capicua,Psicologia,16.0,1,14.0
+2022134,Pedro,da Silva,Comunicação,12.0,1,17.0
+20211727,Rui,Castelo,Informática,10.0,1,19.0
+2003272,Rodrigo,Sampaio,Psicologia,12.0,1,19.0
+2007215,Raquel,Capicua,Comunicação,10.0,1,20.0
+20221265,Leonardo,da Silva,Comunicação,18.0,1,10.0
+20071424,Patrícia,Morais,Informática,20.0,1,12.0
+20211612,Rita,Capicua,Psicologia,12.0,1,18.0
+2022295,Jorge,Capicua,Psicologia,16.0,1,15.0
+2021369,Jorge,Castelo-Branco,Comunicação,12.0,1,18.0
+2007796,Avelino,Pereira,Comunicação,14.0,1,14.0
+20071132,Rodrigo,Pereira,Psicologia,11.0,1,17.0
+20211598,Lucas,Castelo-Branco,Psicologia,20.0,1,11.0
+202169,Bruno,Laranjeira,Psicologia,16.0,1,14.0
+2007763,Catarina,Silva,Psicologia,15.0,1,14.0
+20071270,Rui,Laranjeira,Informática,20.0,1,13.0
+2021872,Pedro,Castelo,Psicologia,15.0,1,15.0
+2022194,Jorge,Laranjeira,Comunicação,20.0,1,11.0
+2019507,Pedro,Pires,Psicologia,16.0,1,14.0
+200724627,Lucas,Sampaio,Informática,20.0,1,11.0
+20071600,Sandra,Pires,Psicologia,16.0,1,14.0
+2007209,Michaelangelo,Capicua,Informática,11.0,1,17.0
+2007115,Joana,Pires,Informática,17.0,1,11.0
+2021155322,Marta,Pires,Informática,12.0,1,18.0
+2007197,Leonardo,Machado,Informática,18.0,1,11.0
+20211623,Maria João,Pires,Psicologia,12.0,1,20.0
+20211709,Patrícia,da Silva,Comunicação,17.0,1,13.0
+20031022,Patrícia,Castelo,Psicologia,15.0,1,14.0
+2007906,Rui,Morais,Informática,18.0,1,13.0
+2003347,Bruno,Pereira,Comunicação,18.0,1,10.0
+20201616,Jorge,Pires,Psicologia,20.0,1,11.0
+2007601,Diana,Machado,Psicologia,17.0,1,11.0
+2003761,Miguel,Cintra,Psicologia,13.0,1,20.0
+20201239,Rodrigo,Castelo-Branco,Psicologia,12.0,1,19.0
+2020149,Sandra,Morais,Psicologia,19.0,1,11.0
+2022941,Olivia,Pires,Psicologia,14.0,1,15.0
+20211205,Carla,da Silva,Informática,17.0,1,11.0
+2019697,Ana,Morais,Psicologia,12.0,1,20.0
+200321,Pedro,Castelo,Informática,10.0,1,19.0
+202239,Leonardo,Laranjeira,Psicologia,11.0,1,19.0
+2019494,Leonardo,da Silva,Informática,20.0,1,11.0
+20071121,Christos,Castelo,Comunicação,20.0,1,11.0
+20221655,Pedro,Capicua,Comunicação,13.0,1,19.0
+20216,Joana,Castelo,Comunicação,20.0,1,12.0
+20211744,Nuno,Capicua,Psicologia,10.0,1,20.0
+20201525,Pedro,Cintra,Comunicação,17.0,1,10.0
+2003797,Avelino,Pires,Informática,11.0,1,19.0
+20221016,Jorge,da Silva,Informática,14.0,1,15.0
+2019532,Pedro,Castelo-Branco,Psicologia,17.0,1,12.0
+2007730,Sandra,Castelo,Informática,13.0,1,18.0
+20191319,Alice,da Silva,Psicologia,18.0,1,13.0
+2019933,Olivia,Capicua,Comunicação,12.0,1,19.0
+20031036,Bruno,Laranjeira,Psicologia,15.0,1,16.0
+2020239,Alice,Morais,Comunicação,11.0,1,20.0
+20201341,Miguel,Castelo-Branco,Comunicação,14.0,1,16.0
+2020843,Jorge,Castelo,Comunicação,18.0,1,12.0
+20201196,Maria João,Capicua,Psicologia,12.0,1,18.0
+2022883,Alice,Pires,Informática,11.0,1,20.0
+2022403,Catarina,Sampaio,Psicologia,12.0,1,18.0
+20071431,Maria João,Cintra,Comunicação,17.0,1,11.0
+2019870,Michaelangelo,Cintra,Comunicação,10.0,1,20.0
+2020283,Carla,da Silva,Psicologia,18.0,1,13.0
+2021433,Marta,Castelo,Comunicação,17.0,1,12.0
+2019747,Anne,Morais,Psicologia,14.0,1,16.0
+202127,Carla,Sampaio,Comunicação,17.0,1,10.0
+20211088,Jorge,Castelo,Psicologia,17.0,1,10.0
+20221536,Rodrigo,Sampaio,Psicologia,17.0,1,10.0
+2003947,Sandra,Pires,Informática,10.0,1,19.0
+202017,Catarina,Morais,Comunicação,15.0,1,16.0
+2021218,Avelino,Cintra,Comunicação,13.0,1,20.0
+2019569,Avelino,Castelo,Psicologia,12.0,1,19.0
+2019373,Rita,Cintra,Psicologia,19.0,1,13.0
+2021358,Rui,Silva,Informática,12.0,1,19.0
+20221174,Miguel,Laranjeira,Informática,11.0,1,17.0
+20221737,Patrícia,Capicua,Comunicação,19.0,1,10.0
+20221254,Joana,Pires,Comunicação,18.0,1,11.0
+20221448,Patrícia,Capicua,Comunicação,14.0,1,14.0
+2007439,Leonardo,Machado,Psicologia,20.0,1,11.0
+2020340,Avelino,Pires,Informática,15.0,1,16.0
+2007900,Miguel,Pires,Psicologia,20.0,1,11.0
+2007290,Leonardo,Machado,Comunicação,12.0,1,19.0
+20201591,Rita,Laranjeira,Comunicação,12.0,1,17.0
+2003931,Nuno,Cintra,Psicologia,12.0,1,19.0
+2003966,Rui,Castelo,Informática,20.0,1,10.0
+2021849,Diana,Machado,Informática,17.0,1,10.0
+20211103,Michaelangelo,Capicua,Informática,10.0,1,19.0
+2003786,Anne,Sampaio,Informática,17.0,1,13.0
+20191729,Beatriz,Cintra,Psicologia,12.0,1,17.0
+2020385,Sandra,Pereira,Comunicação,17.0,1,10.0
+2003199,Nuno,da Silva,Informática,14.0,1,14.0
+20201169,Avelino,Morais,Comunicação,10.0,1,20.0
+2019611,Bruno,Machado,Comunicação,19.0,1,12.0
+20191602,Ana,Cintra,Comunicação,17.0,1,13.0
+2020846,Raquel,Sampaio,Informática,18.0,1,13.0
+2022909,Miguel,Morais,Comunicação,19.0,1,11.0
+20201273,Avelino,da Silva,Psicologia,13.0,1,19.0
+2021351,Anne,Capicua,Comunicação,10.0,1,19.0
+2021940,Lucas,Castelo,Comunicação,19.0,1,10.0
+20211021,Maria,Silva,Psicologia,12.0,1,19.0
+20221149,Ana,Pereira,Psicologia,20.0,1,12.0
+20201050,Rita,Silva,Informática,18.0,1,10.0
+20031093,Jorge,Silva,Psicologia,15.0,1,16.0
+2021398,Jorge,Machado,Psicologia,12.0,1,20.0
+20191243,Michaelangelo,Laranjeira,Comunicação,13.0,1,20.0
+20201619,Joana,Silva,Comunicação,17.0,1,11.0
+2007417,Alice,Castelo,Psicologia,16.0,1,14.0
+20031548,Diana,Cintra,Informática,18.0,1,10.0
+20221169,Carla,Silva,Comunicação,17.0,1,10.0
+20211571,Carla,Castelo,Informática,11.0,1,18.0
+200741449,Joana,Morais,Informática,15.0,1,16.0
+20211521,Michaelangelo,Pereira,Comunicação,15.0,1,15.0
+20221438,Avelino,da Silva,Informática,15.0,1,15.0
+20031715,Lucas,Capicua,Psicologia,15.0,1,14.0
+202048,Rui,Sampaio,Comunicação,20.0,1,11.0
+2022604,Jorge,Cintra,Comunicação,16.0,1,15.0
+20211454,Rodrigo,Pereira,Psicologia,10.0,1,18.0
+2007953,Leonardo,Cintra,Informática,13.0,1,20.0
+20191051,Avelino,Machado,Comunicação,12.0,1,17.0
+20071312,Sandra,Pires,Comunicação,10.0,1,20.0
+2021348,Maria,Cintra,Psicologia,19.0,1,13.0
+201912386,Pedro,Pires,Comunicação,16.0,1,15.0
+2007252,Raquel,Silva,Comunicação,12.0,1,19.0
+2022155,Nuno,da Silva,Psicologia,13.0,1,19.0
+20031293,Pedro,Morais,Informática,15.0,1,15.0
+2019586,Diana,Pires,Comunicação,19.0,1,10.0
+2003826,Lucas,Sampaio,Informática,11.0,1,19.0
+20031088,Beatriz,Castelo,Informática,12.0,1,20.0
+20221092,Rita,Sampaio,Informática,13.0,1,20.0
+2022150947,Christos,Machado,Psicologia,18.0,1,10.0
+202170,Diana,Pires,Psicologia,18.0,1,12.0
+2020533,Patrícia,Cintra,Psicologia,14.0,1,14.0
+20211520,Rodrigo,Machado,Informática,10.0,1,20.0
+20201697,Rodrigo,Sampaio,Informática,19.0,1,10.0
+2003894,Rodrigo,Castelo,Psicologia,12.0,1,19.0
+2022924,Bruno,Pires,Informática,10.0,1,17.0
+20201052,Anne,Sampaio,Informática,16.0,1,14.0
+20191057,Olivia,Castelo-Branco,Informática,14.0,1,16.0
+202189512,Avelino,Silva,Psicologia,13.0,1,19.0
+20031550,Lucas,Cintra,Informática,16.0,1,14.0
+2019336,Patrícia,Capicua,Psicologia,20.0,1,10.0
+2003608,Anne,Capicua,Psicologia,20.0,1,12.0
+2021502,Bruno,Capicua,Comunicação,11.0,1,18.0
+2019670,Olivia,Castelo-Branco,Psicologia,17.0,1,10.0
+20201148,Catarina,da Silva,Psicologia,18.0,1,10.0
+20201419,Maria,Castelo,Comunicação,15.0,1,16.0
+20071084,Alice,Castelo,Psicologia,14.0,1,15.0
+200715212,Bruno,Machado,Comunicação,16.0,1,15.0
+2003878,Nuno,da Silva,Psicologia,17.0,1,10.0
+2021435,Diana,Pires,Comunicação,16.0,1,15.0
+2003561,Rita,Capicua,Comunicação,11.0,1,17.0
+2019887,Sandra,Cintra,Psicologia,15.0,1,16.0
+20201540,Diana,Castelo-Branco,Informática,18.0,1,11.0
+2003182,Beatriz,Capicua,Comunicação,13.0,1,19.0
+2007826,Michaelangelo,Sampaio,Psicologia,18.0,1,12.0
+2021327,Michaelangelo,Sampaio,Psicologia,10.0,1,20.0
+2003221,Anne,Silva,Comunicação,13.0,1,17.0
+200787,Sandra,Cintra,Comunicação,10.0,1,19.0
+20071419,Michaelangelo,Pires,Comunicação,11.0,1,17.0
+2022112,Rita,Pereira,Comunicação,13.0,1,20.0
+20191501,Rita,Castelo-Branco,Comunicação,15.0,1,14.0
+20221608,Pedro,Sampaio,Comunicação,16.0,1,14.0
+20031089,Sandra,Castelo,Comunicação,18.0,1,13.0
+20191623,Ana,Pires,Informática,20.0,1,10.0
+20071036,Maria,Machado,Psicologia,15.0,1,14.0
+2021339,Rui,Pires,Psicologia,20.0,1,11.0
+2007488,Nuno,Sampaio,Informática,19.0,1,10.0
+2020149227,Bruno,Capicua,Comunicação,16.0,1,16.0
+2019212,Avelino,da Silva,Comunicação,13.0,1,17.0
+2007496,Marta,Morais,Informática,16.0,1,16.0
+20221727,Alice,Morais,Psicologia,18.0,1,10.0
+20201712,Rita,Castelo,Comunicação,13.0,1,19.0
+20191343,Olivia,Silva,Comunicação,11.0,1,17.0
+202052745,Patrícia,da Silva,Psicologia,10.0,1,18.0
+20191338,Michaelangelo,Castelo-Branco,Informática,11.0,1,20.0
+20191356,Maria,Cintra,Informática,12.0,1,20.0
+2019844,Maria João,Morais,Comunicação,18.0,1,10.0
+20071352,Christos,Pereira,Psicologia,15.0,1,14.0
+2019328,Anne,Castelo,Psicologia,19.0,1,13.0
+2003780,Bruno,da Silva,Psicologia,12.0,1,20.0
+202012,Catarina,Machado,Psicologia,11.0,1,19.0
+2019847,Maria,Castelo,Comunicação,17.0,1,11.0
+2019889,Sandra,Castelo-Branco,Comunicação,13.0,1,20.0
+2019379,Marta,Pereira,Psicologia,17.0,1,11.0
+20191368,Rodrigo,Morais,Informática,15.0,1,14.0
+2003478,Christos,Castelo,Psicologia,16.0,1,14.0
+200731641,Catarina,Capicua,Comunicação,18.0,1,12.0
+20201641,Christos,Pereira,Psicologia,16.0,1,15.0
+20071143,Jorge,Capicua,Psicologia,20.0,1,12.0
+2019951,Alice,Capicua,Comunicação,10.0,1,17.0
+20221606,Carla,Pereira,Comunicação,17.0,1,11.0
+2020116,Jorge,Pires,Comunicação,14.0,1,16.0
+2019105,Sandra,Capicua,Informática,12.0,1,19.0
+201937,Pedro,Pereira,Informática,18.0,1,11.0
+2019463,Anne,Castelo,Comunicação,10.0,1,17.0
+2020861,Marta,Silva,Comunicação,12.0,1,19.0
+20201013,Rodrigo,Capicua,Informática,10.0,1,19.0
+20191287,Christos,Castelo,Comunicação,14.0,1,15.0
+2022893,Lucas,da Silva,Psicologia,19.0,1,13.0
+2020133,Anne,Castelo-Branco,Informática,20.0,1,12.0
+2019833,Rui,Castelo-Branco,Psicologia,20.0,1,10.0
+20031111,Rodrigo,Pires,Comunicação,13.0,1,19.0
+202126232,Marta,Cintra,Informática,19.0,1,10.0
+2003863,Diana,da Silva,Psicologia,17.0,1,12.0
+20191655,Miguel,Cintra,Psicologia,17.0,1,11.0
+201963,Avelino,Castelo,Comunicação,19.0,1,13.0
+20201008,Bruno,Capicua,Informática,16.0,1,14.0
+20201394,Rui,Laranjeira,Informática,10.0,1,18.0
+201958,Bruno,Castelo,Informática,14.0,1,14.0
+2021644,Patrícia,da Silva,Psicologia,11.0,1,18.0
+2007434,Rodrigo,da Silva,Psicologia,19.0,1,10.0
+20211644,Jorge,Castelo-Branco,Psicologia,12.0,1,20.0
+20221125,Raquel,Machado,Comunicação,11.0,1,17.0
+20211213,Ana,Sampaio,Psicologia,17.0,1,12.0
+20031381,Pedro,Pereira,Comunicação,19.0,1,12.0
+202164,Pedro,Morais,Comunicação,15.0,1,14.0
+2003932,Michaelangelo,Capicua,Psicologia,13.0,1,19.0
+2021396,Lucas,Machado,Psicologia,11.0,1,17.0
+2019689,Maria João,Pires,Informática,18.0,1,13.0
+2020163645,Alice,Pereira,Informática,19.0,1,10.0
+2020609,Maria João,Sampaio,Comunicação,15.0,1,16.0
+2019644,Lucas,Castelo,Psicologia,20.0,1,13.0
+2021927,Catarina,Castelo-Branco,Psicologia,18.0,1,10.0
+20031724,Rui,Castelo-Branco,Psicologia,16.0,1,14.0
+2020803,Rui,Pereira,Informática,20.0,1,13.0
+202232,Rita,Machado,Comunicação,20.0,1,12.0
+2020220,Marta,da Silva,Comunicação,16.0,1,14.0
+2007587,Rui,da Silva,Informática,20.0,1,10.0
+2020688,Olivia,Pires,Psicologia,16.0,1,14.0
+2021876,Diana,Cintra,Comunicação,10.0,1,17.0
+2021685,Rodrigo,Capicua,Psicologia,13.0,1,17.0
+20221673,Avelino,Cintra,Informática,16.0,1,16.0
+20221543,Patrícia,Sampaio,Psicologia,20.0,1,12.0
+20191093,Alice,Pereira,Psicologia,19.0,1,10.0
+20211689,Raquel,Pires,Psicologia,19.0,1,10.0
+20211234,Rodrigo,Machado,Comunicação,18.0,1,13.0
+2003748,Raquel,Pires,Comunicação,14.0,1,15.0
+2020156547,Nuno,Silva,Comunicação,19.0,1,11.0
+2003958,Rodrigo,Pires,Informática,17.0,1,11.0
+2021198,Maria,Cintra,Comunicação,18.0,1,13.0
+200362,Rita,Castelo-Branco,Comunicação,17.0,1,12.0
+20191320,Leonardo,Morais,Comunicação,11.0,1,17.0
+20221381,Pedro,Laranjeira,Psicologia,16.0,1,16.0
+20221371,Michaelangelo,Cintra,Informática,14.0,1,16.0
+2003102,Raquel,Laranjeira,Informática,18.0,1,12.0
+2003115,Miguel,Machado,Psicologia,12.0,1,20.0
+20036242,Catarina,Silva,Psicologia,17.0,1,13.0
+202153,Anne,Silva,Informática,10.0,1,19.0
+20211181,Miguel,Morais,Psicologia,17.0,1,10.0
+2007582,Christos,Pereira,Informática,15.0,1,16.0
+20221324,Patrícia,Castelo,Psicologia,10.0,1,17.0
+2007371,Rodrigo,Sampaio,Comunicação,12.0,1,19.0
+20221651,Anne,Pires,Psicologia,10.0,1,20.0
+2022183,Diana,da Silva,Psicologia,12.0,1,20.0
+2022126632,Avelino,Pereira,Comunicação,15.0,1,16.0
+20201417,Carla,Castelo,Comunicação,14.0,1,16.0
+201938,Michaelangelo,Pires,Informática,18.0,1,12.0
+2021333,Carla,Pires,Informática,19.0,1,13.0
+20221611,Catarina,Morais,Comunicação,10.0,1,19.0
+2020715,Miguel,Cintra,Psicologia,17.0,1,13.0
+2020563,Nuno,Cintra,Comunicação,11.0,1,18.0
+2007873,Pedro,Pires,Comunicação,14.0,1,15.0
+20211129,Patrícia,Castelo-Branco,Informática,16.0,1,16.0
+2021263,Olivia,Capicua,Comunicação,12.0,1,20.0
+20031475,Ana,Sampaio,Informática,15.0,1,14.0
+2019384,Carla,Morais,Comunicação,12.0,1,18.0
+2020106929,Diana,Sampaio,Comunicação,11.0,1,19.0
+2021167,Jorge,Machado,Psicologia,17.0,1,13.0
+2022361,Rita,Machado,Psicologia,17.0,1,11.0
+20201153,Bruno,Machado,Psicologia,15.0,1,15.0
+2003953,Olivia,Castelo,Comunicação,10.0,1,20.0
+2022204,Rui,Morais,Comunicação,20.0,1,11.0
+20191342,Carla,Castelo-Branco,Psicologia,14.0,1,14.0
+20031353,Christos,Capicua,Comunicação,13.0,1,17.0
+2021801,Olivia,Pires,Psicologia,11.0,1,20.0
+2003260,Catarina,Morais,Comunicação,14.0,1,16.0
+200370,Olivia,Silva,Psicologia,20.0,1,12.0
+20071713,Leonardo,Castelo,Psicologia,13.0,1,20.0
+2021197,Nuno,Machado,Comunicação,12.0,1,19.0
+20071712,Miguel,Pires,Informática,16.0,1,16.0
+20201359,Miguel,Capicua,Comunicação,11.0,1,18.0
+2020970,Michaelangelo,Machado,Psicologia,19.0,1,13.0
+20213919,Rodrigo,Machado,Psicologia,10.0,1,18.0
+2021468,Pedro,Castelo-Branco,Informática,14.0,1,16.0
+200737,Lucas,Capicua,Psicologia,18.0,1,11.0
+2003306,Leonardo,Pereira,Comunicação,16.0,1,14.0
+20211556,Pedro,Castelo,Informática,18.0,1,10.0
+2021449,Bruno,Machado,Psicologia,11.0,1,17.0
+2003765,Joana,Pires,Psicologia,15.0,1,14.0
+202262829,Anne,da Silva,Informática,16.0,1,14.0
+2021405,Rita,Castelo-Branco,Comunicação,15.0,1,16.0
+2020598,Miguel,Castelo,Psicologia,13.0,1,19.0
+2021519,Nuno,Castelo,Comunicação,11.0,1,19.0
+200379239,Catarina,Pires,Comunicação,14.0,1,16.0
+2020134,Avelino,Capicua,Comunicação,12.0,1,18.0
+2022266,Ana,Silva,Comunicação,18.0,1,11.0
+20221609,Michaelangelo,Capicua,Psicologia,16.0,1,16.0
+2020161729,Alice,Cintra,Informática,16.0,1,15.0
+20071041,Christos,Laranjeira,Informática,14.0,1,16.0
+20031361,Joana,Capicua,Informática,18.0,1,11.0
+2019696,Rita,Pires,Informática,14.0,1,14.0
+20031600,Avelino,Machado,Psicologia,14.0,1,16.0
+20221117,Michaelangelo,Castelo,Informática,10.0,1,18.0
+2003999,Joana,Machado,Informática,19.0,1,11.0
+202070050,Avelino,Sampaio,Psicologia,17.0,1,11.0
+2019171245,Sandra,Laranjeira,Comunicação,16.0,1,16.0
+20031365,Sandra,da Silva,Comunicação,20.0,1,13.0
+20221591,Nuno,Morais,Comunicação,18.0,1,12.0
+20071539,Jorge,da Silva,Informática,17.0,1,11.0
+2019622,Olivia,Pires,Psicologia,18.0,1,13.0
+2021579,Leonardo,Laranjeira,Informática,14.0,1,16.0
+20221183,Miguel,Pires,Informática,17.0,1,10.0
+2022458,Rita,da Silva,Informática,14.0,1,14.0
+2022564,Patrícia,Pereira,Psicologia,17.0,1,10.0
+20221474,Miguel,Sampaio,Comunicação,10.0,1,19.0
+20031700,Avelino,Laranjeira,Informática,17.0,1,12.0
+2007158,Rita,Morais,Informática,16.0,1,14.0
+2022542,Lucas,Capicua,Psicologia,12.0,1,17.0
+20191200,Marta,Silva,Informática,14.0,1,15.0
+20031620,Rita,da Silva,Comunicação,14.0,1,16.0
+20221075,Michaelangelo,Sampaio,Comunicação,12.0,1,18.0
+20071064,Rodrigo,Pereira,Psicologia,12.0,1,17.0
+20191374,Alice,Sampaio,Informática,20.0,1,12.0
+2003864,Raquel,Pereira,Comunicação,19.0,1,12.0
+2003444,Maria João,Castelo,Psicologia,16.0,1,16.0
+2020684,Lucas,Machado,Comunicação,18.0,1,10.0
+20221436,Nuno,Machado,Comunicação,19.0,1,12.0
+201954149,Joana,Pires,Informática,12.0,1,19.0
+20201173,Olivia,Morais,Comunicação,15.0,1,16.0
+2019104,Avelino,Sampaio,Informática,13.0,1,19.0
+20071545,Ana,da Silva,Informática,13.0,1,17.0
+2019668,Alice,Laranjeira,Psicologia,19.0,1,13.0
+20201598,Carla,Sampaio,Psicologia,20.0,1,12.0
+2003454,Christos,Silva,Psicologia,17.0,1,10.0
+2020310,Christos,Laranjeira,Comunicação,15.0,1,15.0
+202076316,Rita,Pereira,Informática,11.0,1,18.0
+2019137736,Catarina,Capicua,Informática,16.0,1,14.0
+2022631,Anne,Pires,Informática,10.0,1,19.0
+2022441,Michaelangelo,Laranjeira,Comunicação,16.0,1,16.0
+2021764,Avelino,Laranjeira,Comunicação,19.0,1,13.0
+20201550,Nuno,Morais,Psicologia,13.0,1,17.0
+2021458,Maria,Sampaio,Psicologia,18.0,1,13.0
+20211339,Olivia,Machado,Informática,15.0,1,16.0
+20201610,Michaelangelo,Castelo,Comunicação,16.0,1,16.0
+20201402,Raquel,Morais,Informática,13.0,1,20.0
+200794,Ana,da Silva,Comunicação,12.0,1,19.0
+20031112,Bruno,Castelo-Branco,Informática,14.0,1,16.0
+202150,Jorge,Sampaio,Psicologia,20.0,1,13.0
+2007968,Lucas,Castelo-Branco,Comunicação,12.0,1,19.0
+20031558,Christos,Silva,Psicologia,10.0,1,19.0
+20031035,Beatriz,Sampaio,Comunicação,11.0,1,18.0
+2020775,Sandra,Pereira,Psicologia,12.0,1,19.0
+20191282,Marta,Silva,Informática,20.0,1,10.0
+2003250,Olivia,Sampaio,Informática,16.0,1,16.0
+20201325,Ana,Laranjeira,Psicologia,18.0,1,13.0
+202178,Christos,Sampaio,Psicologia,14.0,1,15.0
+20071131,Patrícia,Capicua,Informática,18.0,1,11.0
+2019846,Olivia,Morais,Informática,16.0,1,16.0
+2019983,Rita,da Silva,Informática,17.0,1,10.0
+2022228,Joana,Machado,Psicologia,14.0,1,16.0
+20221610,Nuno,Cintra,Informática,13.0,1,19.0
+2022348,Anne,Sampaio,Informática,13.0,1,17.0
+20221711,Rodrigo,Castelo,Informática,17.0,1,10.0
+2019245,Bruno,Morais,Comunicação,13.0,1,19.0
+20031525,Raquel,Cintra,Psicologia,15.0,1,16.0
+2021368,Pedro,Morais,Comunicação,13.0,1,19.0
+20221335,Avelino,Silva,Informática,12.0,1,20.0
+2019266,Maria,Morais,Informática,15.0,1,15.0
+20201133,Rita,Capicua,Psicologia,11.0,1,17.0
+202234638,Miguel,Cintra,Psicologia,13.0,1,17.0
+20211380,Catarina,Pires,Comunicação,19.0,1,12.0
+20211750,Avelino,Morais,Informática,20.0,1,13.0
+2003813,Lucas,Laranjeira,Comunicação,13.0,1,19.0
+2019251,Maria João,Pereira,Comunicação,20.0,1,11.0
+20221481,Catarina,Sampaio,Informática,14.0,1,15.0
+2003779,Alice,Sampaio,Informática,10.0,1,17.0
+20071423,Pedro,Castelo-Branco,Informática,19.0,1,12.0
+2020968,Anne,da Silva,Comunicação,20.0,1,13.0
+2003138948,Joana,Pereira,Informática,10.0,1,19.0
+20071116,Alice,Castelo,Psicologia,18.0,1,10.0
+2007773,Rui,Laranjeira,Informática,10.0,1,18.0
+20191713,Pedro,da Silva,Informática,13.0,1,18.0
+2020937,Avelino,Capicua,Comunicação,15.0,1,14.0
+2003831,Maria,Castelo,Informática,18.0,1,11.0
+20211050,Sandra,Pereira,Informática,15.0,1,16.0
+2020759,Beatriz,Castelo,Informática,18.0,1,11.0
+20221601,Rita,Pires,Psicologia,16.0,1,16.0
+20201174,Pedro,Laranjeira,Comunicação,11.0,1,20.0
+2007246,Raquel,Machado,Comunicação,10.0,1,17.0
+2003661,Maria,Machado,Informática,15.0,1,14.0
+2007550,Bruno,Castelo,Informática,18.0,1,11.0
+2007203,Nuno,Pires,Comunicação,15.0,1,15.0
+2003647,Jorge,Machado,Psicologia,10.0,1,19.0
+2022997,Christos,Laranjeira,Comunicação,18.0,1,12.0
+2022133412,Michaelangelo,Laranjeira,Psicologia,15.0,1,14.0
+2019152749,Miguel,da Silva,Informática,18.0,1,12.0
+2022234,Pedro,Morais,Informática,17.0,1,13.0
+20071420,Beatriz,Sampaio,Psicologia,19.0,1,13.0
+20211382,Beatriz,Pires,Psicologia,18.0,1,11.0
+2003171,Patrícia,Capicua,Psicologia,10.0,1,19.0
+20201190,Carla,Machado,Informática,19.0,1,10.0
+20031641,Alice,Capicua,Informática,19.0,1,12.0
+20191246,Rodrigo,Castelo,Informática,12.0,1,20.0
+202023736,Rita,Castelo-Branco,Psicologia,14.0,1,14.0
+202018,Christos,Morais,Psicologia,13.0,1,20.0
+202211323,Rodrigo,Castelo,Psicologia,11.0,1,17.0
+2019323,Miguel,da Silva,Informática,16.0,1,16.0
+2020452,Rodrigo,Sampaio,Informática,14.0,1,16.0
+2007835,Marta,Pires,Informática,10.0,1,20.0
+20191218,Maria João,Castelo-Branco,Informática,12.0,1,20.0
+20221670,Alice,Sampaio,Psicologia,11.0,1,18.0
+20201140,Maria João,Sampaio,Informática,10.0,1,19.0
+2007160645,Ana,Capicua,Informática,15.0,1,14.0
+2007800,Avelino,Silva,Informática,10.0,1,20.0
+2020228,Marta,Machado,Comunicação,20.0,1,10.0
+20031038,Joana,Cintra,Psicologia,19.0,1,12.0
+2003394,Nuno,Castelo,Comunicação,20.0,1,11.0
+20211287,Carla,Cintra,Comunicação,13.0,1,17.0
+20031274,Jorge,Machado,Informática,17.0,1,11.0
+202214987,Lucas,Capicua,Comunicação,15.0,1,14.0
+2003582,Rui,Pires,Psicologia,20.0,1,10.0
+20211027,Pedro,Pires,Comunicação,20.0,1,11.0
+2021190,Nuno,Castelo-Branco,Psicologia,19.0,1,10.0
+2019282,Miguel,Morais,Comunicação,15.0,1,16.0
+20031395,Marta,Castelo,Psicologia,10.0,1,20.0
+20031565,Diana,Machado,Comunicação,10.0,1,18.0
+20031110,Beatriz,Capicua,Informática,11.0,1,17.0
+20201548,Jorge,Cintra,Informática,11.0,1,19.0
+2022667,Carla,Cintra,Informática,20.0,1,11.0
+2003468,Rita,Morais,Psicologia,19.0,1,10.0
+2019802,Bruno,Castelo,Informática,15.0,1,16.0
+20031642,Christos,Silva,Comunicação,18.0,1,13.0
+20211119,Alice,Pires,Informática,11.0,1,18.0
+20071695,Diana,Castelo,Informática,15.0,1,14.0
+20031742,Beatriz,Castelo-Branco,Informática,20.0,1,10.0
+2003114221,Jorge,Cintra,Informática,15.0,1,15.0
+2020125,Patrícia,da Silva,Comunicação,19.0,1,11.0
+202113,Beatriz,Machado,Informática,18.0,1,11.0
+2021719,Avelino,Pereira,Comunicação,10.0,1,17.0
+2022246,Lucas,da Silva,Psicologia,15.0,1,14.0
+2020314,Patrícia,Capicua,Informática,19.0,1,11.0
+2020511,Ana,Castelo-Branco,Informática,11.0,1,18.0
+2021903,Catarina,Pereira,Comunicação,15.0,1,16.0
+2003666,Rita,Capicua,Psicologia,17.0,1,13.0
+20071184,Catarina,Laranjeira,Comunicação,10.0,1,17.0
+20211186,Miguel,Capicua,Comunicação,11.0,1,19.0
+2021843,Raquel,Pereira,Comunicação,18.0,1,12.0
+20191525,Leonardo,Silva,Comunicação,17.0,1,13.0
+20071194,Ana,da Silva,Comunicação,20.0,1,13.0
+20201044,Alice,Castelo,Comunicação,19.0,1,13.0
+2020275,Beatriz,Cintra,Informática,18.0,1,13.0
+200335023,Miguel,Sampaio,Comunicação,19.0,1,12.0
+20201364,Lucas,Cintra,Comunicação,10.0,1,20.0
+202279,Marta,da Silva,Comunicação,20.0,1,11.0
+200346,Olivia,Cintra,Comunicação,19.0,1,12.0
+2022754,Rodrigo,Pereira,Psicologia,18.0,1,13.0
+202074,Rita,Morais,Psicologia,11.0,1,19.0
+2019522,Christos,da Silva,Psicologia,17.0,1,13.0
+20191726,Christos,Pires,Comunicação,19.0,1,10.0
+201980,Ana,Castelo,Informática,13.0,1,17.0
+2022480,Maria João,Castelo,Informática,13.0,1,17.0
+20191019,Anne,Pereira,Comunicação,13.0,1,20.0
+200755,Raquel,Castelo,Comunicação,14.0,1,16.0
+2007137426,Bruno,Castelo,Psicologia,15.0,1,14.0
+20071473,Lucas,Cintra,Comunicação,13.0,1,20.0
+202043,Avelino,Silva,Comunicação,16.0,1,14.0
+20191576,Lucas,Morais,Comunicação,11.0,1,17.0
+2021242,Alice,Sampaio,Psicologia,17.0,1,10.0
+2020709,Pedro,Castelo,Comunicação,10.0,1,17.0
+2020621,Raquel,Laranjeira,Comunicação,16.0,1,14.0
+2003510,Christos,Laranjeira,Psicologia,14.0,1,16.0
+2007112,Raquel,Cintra,Informática,19.0,1,12.0
+2021866,Ana,Laranjeira,Comunicação,18.0,1,10.0
+2022528,Patrícia,Sampaio,Informática,13.0,1,17.0
+20191183,Nuno,Morais,Psicologia,13.0,1,20.0
+20031575,Raquel,Laranjeira,Comunicação,17.0,1,13.0
+20031580,Rita,Castelo-Branco,Informática,13.0,1,18.0
+2022265,Carla,Sampaio,Psicologia,14.0,1,15.0
+2003330,Christos,Castelo,Psicologia,13.0,1,18.0
+20211547,Miguel,Silva,Informática,17.0,1,10.0
+20031163,Nuno,Sampaio,Informática,19.0,1,12.0
+20211417,Marta,Castelo-Branco,Psicologia,15.0,1,14.0
+20211051,Nuno,Silva,Comunicação,11.0,1,19.0
+20211450,Leonardo,Machado,Psicologia,15.0,1,16.0
+20191387,Maria João,Laranjeira,Informática,13.0,1,20.0
+2020714,Leonardo,Machado,Informática,19.0,1,12.0
+20201066,Beatriz,Machado,Informática,12.0,1,17.0
+2021146027,Alice,Castelo,Psicologia,15.0,1,14.0
+2022531,Christos,Pereira,Psicologia,14.0,1,14.0
+2020644,Miguel,Laranjeira,Psicologia,14.0,1,15.0
+20031101,Rodrigo,Pereira,Informática,12.0,1,19.0
+2022174449,Michaelangelo,Silva,Psicologia,13.0,1,20.0
+2022161,Rita,Pereira,Comunicação,11.0,1,17.0
+2019750,Pedro,Morais,Psicologia,17.0,1,13.0
+20211569,Bruno,Sampaio,Comunicação,16.0,1,15.0
+2022114,Raquel,Capicua,Comunicação,11.0,1,18.0
+20071523,Rui,Pires,Comunicação,10.0,1,17.0
+2019439,Rita,da Silva,Psicologia,10.0,1,18.0
+200734,Ana,Morais,Psicologia,14.0,1,14.0
+2007867,Marta,Silva,Psicologia,11.0,1,20.0
+2020138716,Jorge,Capicua,Informática,10.0,1,20.0
+20201601,Michaelangelo,Machado,Psicologia,14.0,1,15.0
+2019948,Marta,Castelo,Psicologia,13.0,1,17.0
+20191202,Pedro,Cintra,Informática,10.0,1,18.0
+20221415,Christos,Laranjeira,Informática,19.0,1,10.0
+20201489,Rodrigo,Laranjeira,Informática,11.0,1,19.0
+20201226,Jorge,Capicua,Comunicação,18.0,1,12.0
+20201170,Bruno,Machado,Informática,20.0,1,13.0
+201951427,Maria,Sampaio,Informática,11.0,1,20.0
+2022287,Rui,Morais,Psicologia,18.0,1,10.0
+20071401,Rodrigo,Pereira,Informática,17.0,1,13.0
+20221461,Jorge,Pires,Informática,19.0,1,11.0
+202213217,Rita,Pereira,Informática,13.0,1,20.0
+2003613,Miguel,Castelo-Branco,Informática,16.0,1,16.0
+20201693,Anne,Cintra,Informática,12.0,1,19.0
+2019635,Maria João,Pereira,Comunicação,10.0,1,17.0
+20221317,Rita,Sampaio,Comunicação,17.0,1,12.0
+200389,Joana,da Silva,Psicologia,10.0,1,19.0
+2007509,Sandra,Capicua,Psicologia,15.0,1,16.0
+20221050,Alice,Silva,Comunicação,20.0,1,10.0
+20221328,Carla,Castelo-Branco,Psicologia,14.0,1,14.0
+2021426,Rita,Silva,Psicologia,20.0,1,12.0
+2003705,Jorge,Sampaio,Psicologia,17.0,1,12.0
+2020203,Christos,Laranjeira,Comunicação,14.0,1,16.0
+2021731,Marta,Machado,Psicologia,17.0,1,11.0
+201952,Anne,Cintra,Comunicação,17.0,1,13.0
+2003546,Michaelangelo,Morais,Informática,10.0,1,17.0
+2021855,Jorge,Silva,Informática,20.0,1,12.0
+20071394,Bruno,Castelo,Comunicação,15.0,1,16.0
+2021148739,Patrícia,Morais,Informática,18.0,1,11.0
+2021120,Marta,Sampaio,Informática,15.0,1,15.0
+2020765,Carla,Pereira,Comunicação,12.0,1,19.0
+20071337,Alice,Machado,Psicologia,17.0,1,12.0
+2022522,Rodrigo,Morais,Psicologia,14.0,1,16.0
+2022248,Beatriz,Castelo-Branco,Informática,12.0,1,17.0
+2021690,Jorge,Machado,Informática,10.0,1,17.0
+200760327,Maria,Pires,Informática,17.0,1,11.0
+20211353,Maria,Castelo-Branco,Comunicação,20.0,1,12.0
+2021944,Catarina,Morais,Psicologia,13.0,1,20.0
+20191111,Anne,Machado,Comunicação,10.0,1,18.0
+2007876,Pedro,Castelo-Branco,Comunicação,20.0,1,13.0
+2003482,Nuno,Castelo,Informática,15.0,1,14.0
+2007727,Maria João,Laranjeira,Comunicação,19.0,1,13.0
+2022592,Maria,Silva,Informática,15.0,1,14.0
+2003920,Christos,Cintra,Informática,15.0,1,15.0
+20196833,Joana,Laranjeira,Comunicação,17.0,1,12.0
+2021332,Nuno,Castelo-Branco,Comunicação,19.0,1,10.0
+20221693,Nuno,Capicua,Informática,17.0,1,11.0
+2019307,Christos,Cintra,Informática,15.0,1,16.0
+2022128329,Michaelangelo,Pereira,Psicologia,13.0,1,17.0
+2020167212,Ana,Morais,Informática,16.0,1,15.0
+202114442,Carla,Pereira,Informática,12.0,1,19.0
+201961540,Ana,Pires,Psicologia,17.0,1,12.0
+2007710,Maria,Pereira,Comunicação,18.0,1,10.0
+20071378,Nuno,Machado,Comunicação,12.0,1,17.0
+20221229,Lucas,Morais,Informática,13.0,1,17.0
+2020102842,Carla,Laranjeira,Comunicação,10.0,1,19.0
+200716852,Rita,da Silva,Informática,15.0,1,15.0
+2019113212,Pedro,Capicua,Informática,16.0,1,16.0
+2007607,Leonardo,Morais,Psicologia,14.0,1,15.0
+2022249,Alice,Pereira,Psicologia,17.0,1,11.0
+20191278,Diana,Cintra,Comunicação,11.0,1,17.0
+2022698,Nuno,Morais,Informática,20.0,1,12.0
+2021793,Leonardo,da Silva,Informática,10.0,1,19.0
+2020159317,Bruno,Morais,Informática,18.0,1,10.0
+20031480,Patrícia,Cintra,Psicologia,14.0,1,15.0
+20191522,Raquel,Morais,Informática,13.0,1,19.0
+20191175,Jorge,Silva,Informática,20.0,1,10.0
+20071310,Joana,Laranjeira,Psicologia,20.0,1,13.0
+2022561,Carla,Castelo-Branco,Psicologia,10.0,1,20.0
+20071112,Marta,Castelo,Informática,17.0,1,10.0
+2022438,Lucas,Cintra,Comunicação,11.0,1,19.0
+2019175,Christos,Laranjeira,Informática,10.0,1,20.0
+20221659,Carla,Castelo-Branco,Psicologia,12.0,1,20.0
+20201280,Christos,Cintra,Comunicação,10.0,1,20.0
+2003149810,Christos,Laranjeira,Informática,20.0,1,13.0
+2003397,Michaelangelo,Capicua,Psicologia,16.0,1,14.0
+20221728,Anne,Pires,Comunicação,16.0,1,14.0
+20191007,Avelino,da Silva,Informática,13.0,1,17.0
+20191285,Sandra,Pires,Comunicação,17.0,1,10.0
+20193882,Raquel,Castelo,Psicologia,15.0,1,14.0
+2007787,Bruno,Cintra,Psicologia,12.0,1,17.0
+2007997,Nuno,Castelo-Branco,Informática,20.0,1,12.0
+20031366,Olivia,Machado,Psicologia,19.0,1,12.0
+202111930,Pedro,Morais,Psicologia,18.0,1,10.0
+2019803,Pedro,Silva,Psicologia,18.0,1,11.0
+2007798,Rodrigo,Morais,Informática,17.0,1,13.0
+2019152,Catarina,Pires,Psicologia,14.0,1,14.0
+20221419,Anne,Pereira,Psicologia,10.0,1,20.0
+2021820,Beatriz,Capicua,Comunicação,12.0,1,20.0
+20211290,Olivia,Capicua,Comunicação,19.0,1,12.0
+2019109,Rita,Morais,Psicologia,13.0,1,20.0
+2019451,Jorge,Castelo-Branco,Comunicação,18.0,1,13.0
+20071050,Patrícia,Morais,Comunicação,19.0,1,12.0
+2019727,Maria João,Machado,Informática,20.0,1,12.0
+20201294,Christos,Pires,Comunicação,12.0,1,17.0
+2007518,Rita,Capicua,Comunicação,18.0,1,10.0
+2007156623,Patrícia,Pires,Comunicação,20.0,1,10.0
+2021258,Lucas,Machado,Informática,14.0,1,14.0
+2019638,Nuno,Sampaio,Comunicação,20.0,1,10.0
+2019560,Miguel,Silva,Informática,10.0,1,20.0
+2022507,Patrícia,Machado,Comunicação,13.0,1,18.0
+20221257,Jorge,Cintra,Comunicação,14.0,1,16.0
+20211720,Rita,Laranjeira,Comunicação,20.0,1,11.0
+2021628,Marta,da Silva,Comunicação,12.0,1,18.0
+20211087,Miguel,Silva,Informática,20.0,1,13.0
+2019478,Pedro,Castelo,Comunicação,11.0,1,19.0
+20201736,Nuno,Capicua,Comunicação,18.0,1,11.0
+20074940,Christos,Cintra,Informática,12.0,1,20.0
+20071453,Leonardo,Laranjeira,Psicologia,16.0,1,16.0
+20071638,Christos,Sampaio,Informática,13.0,1,18.0
+20071206,Beatriz,Laranjeira,Psicologia,20.0,1,10.0
+20221296,Diana,Castelo-Branco,Comunicação,10.0,1,18.0
+200380,Nuno,Silva,Comunicação,10.0,1,20.0
+2022905,Raquel,Silva,Comunicação,20.0,1,13.0
+2003978,Marta,Castelo,Comunicação,15.0,1,15.0
+20211077,Rita,Sampaio,Psicologia,14.0,1,16.0
+2021617,Miguel,Silva,Psicologia,16.0,1,15.0
+20191531,Miguel,Capicua,Psicologia,18.0,1,11.0
+20211714,Carla,Castelo-Branco,Psicologia,20.0,1,11.0
+2021817,Rita,Pereira,Psicologia,17.0,1,11.0
+2019239,Avelino,Silva,Psicologia,14.0,1,14.0
+2021135,Michaelangelo,Pereira,Comunicação,15.0,1,15.0
+20221130,Bruno,Morais,Informática,19.0,1,11.0
+2019353,Pedro,Morais,Psicologia,14.0,1,15.0
+202016724,Christos,Cintra,Psicologia,20.0,1,11.0
+20031636,Ana,Morais,Informática,19.0,1,12.0
+20191419,Sandra,Morais,Comunicação,19.0,1,13.0
+2022513,Miguel,Machado,Informática,18.0,1,10.0
+2021489,Bruno,Castelo,Psicologia,15.0,1,14.0
+202147,Maria João,Cintra,Informática,20.0,1,12.0
+20201365,Rita,Cintra,Informática,13.0,1,20.0
+2003285,Avelino,Cintra,Comunicação,19.0,1,13.0
+2020105,Leonardo,Silva,Informática,17.0,1,11.0
+20211089,Carla,Sampaio,Comunicação,11.0,1,18.0
+2003440,Leonardo,Capicua,Psicologia,18.0,1,11.0
+200381,Rita,Cintra,Informática,18.0,1,12.0
+2019414,Rui,Machado,Informática,11.0,1,19.0
+20201106,Nuno,Cintra,Psicologia,15.0,1,14.0
+2007135742,Alice,da Silva,Psicologia,16.0,1,16.0
+2020730,Miguel,Sampaio,Comunicação,16.0,1,15.0
+20031015,Rita,Machado,Comunicação,20.0,1,13.0
+20211000,Pedro,Sampaio,Psicologia,10.0,1,17.0
+20211341,Ana,Machado,Psicologia,14.0,1,16.0
+20221204,Pedro,Castelo,Comunicação,15.0,1,14.0
+202287749,Olivia,Sampaio,Comunicação,15.0,1,14.0
+20071012,Alice,Capicua,Comunicação,16.0,1,14.0
+2021904,Christos,Castelo-Branco,Psicologia,19.0,1,12.0
+20191089,Rui,Castelo,Psicologia,15.0,1,15.0
+20071722,Ana,Laranjeira,Psicologia,17.0,1,11.0
+2020581,Ana,Laranjeira,Comunicação,11.0,1,20.0
+2021586,Maria João,Pereira,Informática,16.0,1,14.0
+2019646,Avelino,Castelo-Branco,Informática,18.0,1,11.0
+2007642,Rui,Morais,Psicologia,16.0,1,16.0
+20071562,Rita,Cintra,Psicologia,17.0,1,13.0
+2003190,Rodrigo,da Silva,Informática,20.0,1,12.0
+2021626,Nuno,Castelo-Branco,Informática,18.0,1,10.0
+20211320,Miguel,Castelo,Comunicação,17.0,1,13.0
+20031169,Rita,Pereira,Comunicação,20.0,1,10.0
+2007436,Miguel,Morais,Comunicação,17.0,1,13.0
+2019850,Marta,Pereira,Informática,11.0,1,17.0
+202020,Bruno,Morais,Psicologia,11.0,1,17.0
+2007390,Joana,Pires,Comunicação,19.0,1,11.0
+2021702,Avelino,Laranjeira,Psicologia,13.0,1,18.0
+2020111918,Olivia,Morais,Informática,19.0,1,12.0
+2020248,Christos,Laranjeira,Comunicação,15.0,1,15.0
+20201460,Lucas,Morais,Informática,14.0,1,14.0
+2007683,Ana,Castelo,Psicologia,13.0,1,19.0
+20071167,Rui,Capicua,Informática,15.0,1,14.0
+2007184,Marta,Laranjeira,Informática,12.0,1,17.0
+2007453,Anne,Sampaio,Informática,10.0,1,17.0
+20071168,Rita,Cintra,Psicologia,17.0,1,10.0
+20211475,Alice,Pereira,Comunicação,10.0,1,17.0
+2019166320,Leonardo,Pereira,Psicologia,17.0,1,13.0
+2020251,Anne,Castelo-Branco,Psicologia,13.0,1,20.0
+20221672,Miguel,Morais,Psicologia,12.0,1,18.0
+202016949,Nuno,Pereira,Psicologia,20.0,1,12.0
+20191683,Miguel,Castelo-Branco,Informática,10.0,1,19.0
+2007733,Olivia,Sampaio,Informática,19.0,1,12.0
+2022727,Sandra,Capicua,Psicologia,13.0,1,18.0
+2020766,Maria João,Silva,Psicologia,20.0,1,12.0
+2003439,Nuno,Machado,Psicologia,16.0,1,14.0
+2021720,Bruno,Laranjeira,Informática,19.0,1,10.0
+2007212,Christos,Cintra,Informática,19.0,1,11.0
+2022595,Joana,Castelo-Branco,Psicologia,17.0,1,12.0
+20031194,Nuno,Castelo,Psicologia,18.0,1,13.0
+20211691,Beatriz,Capicua,Psicologia,16.0,1,14.0
+20221145,Anne,Machado,Psicologia,12.0,1,17.0
+202117336,Diana,da Silva,Comunicação,17.0,1,13.0
+202172036,Ana,Sampaio,Psicologia,17.0,1,12.0
+20221143,Maria,Machado,Comunicação,13.0,1,19.0
+20191207,Bruno,Cintra,Comunicação,11.0,1,17.0
+2020646,Raquel,Machado,Informática,16.0,1,14.0
+2022152,Rui,Laranjeira,Psicologia,19.0,1,12.0
+2019505,Joana,Capicua,Informática,12.0,1,19.0
+2022254,Jorge,da Silva,Comunicação,12.0,1,17.0
+2020388,Raquel,Pires,Informática,16.0,1,16.0
+20221180,Carla,Pereira,Comunicação,10.0,1,19.0
+20071095,Avelino,Pereira,Informática,18.0,1,11.0
+2020674,Nuno,Silva,Comunicação,13.0,1,20.0
+20221074,Joana,Sampaio,Psicologia,11.0,1,18.0
+202167,Jorge,Morais,Psicologia,13.0,1,18.0
+2021316,Rui,Pires,Informática,17.0,1,13.0
+2021281,Avelino,Morais,Psicologia,16.0,1,14.0
+2021134032,Pedro,Cintra,Comunicação,17.0,1,11.0
+20071602,Rita,Castelo,Comunicação,20.0,1,13.0
+202073,Bruno,Laranjeira,Comunicação,20.0,1,13.0
+2021301,Avelino,Laranjeira,Comunicação,18.0,1,12.0
+2003917,Pedro,Castelo,Informática,17.0,1,11.0
+20211737,Nuno,Sampaio,Informática,18.0,1,10.0
+200772938,Diana,Cintra,Psicologia,17.0,1,10.0
+2020930,Rui,da Silva,Informática,18.0,1,10.0
+202017086,Nuno,Cintra,Informática,20.0,1,11.0
+20031368,Michaelangelo,Pereira,Psicologia,15.0,1,15.0
+20031043,Maria,Silva,Psicologia,16.0,1,14.0
+2007942,Lucas,Silva,Comunicação,19.0,1,12.0
+2020746,Rita,Castelo,Informática,18.0,1,12.0
+200356,Anne,Machado,Psicologia,16.0,1,16.0
+2019100,Lucas,Capicua,Informática,20.0,1,11.0
+2007140,Pedro,Sampaio,Informática,18.0,1,10.0
+20071598,Rita,Cintra,Informática,16.0,1,16.0
+201974,Beatriz,Capicua,Comunicação,19.0,1,10.0
+201985124,Diana,Castelo,Psicologia,16.0,1,16.0
+2003212,Pedro,Cintra,Informática,13.0,1,19.0
+20031752,Rodrigo,Pereira,Comunicação,20.0,1,10.0
+20201423,Maria,Capicua,Psicologia,13.0,1,20.0
+2019852,Beatriz,Laranjeira,Comunicação,20.0,1,11.0
+2020487,Rui,Morais,Comunicação,11.0,1,20.0
+20191557,Michaelangelo,Sampaio,Comunicação,16.0,1,15.0
+20211684,Michaelangelo,Cintra,Informática,17.0,1,11.0
+200399711,Maria,Capicua,Comunicação,10.0,1,18.0
+2007120,Maria João,Laranjeira,Informática,20.0,1,11.0
+2021161,Carla,Laranjeira,Psicologia,10.0,1,20.0
+200743348,Miguel,Machado,Psicologia,19.0,1,13.0
+2020201,Rui,Morais,Informática,14.0,1,14.0
+20211136,Bruno,Morais,Comunicação,14.0,1,15.0
+20221388,Patrícia,Sampaio,Psicologia,16.0,1,15.0
+2020678,Lucas,Pires,Informática,20.0,1,10.0
+202078131,Miguel,Castelo-Branco,Comunicação,12.0,1,18.0
+2019626,Jorge,Castelo-Branco,Psicologia,17.0,1,12.0
+20221560,Nuno,Morais,Comunicação,20.0,1,13.0
+2007199,Bruno,Pereira,Comunicação,12.0,1,17.0
+200388326,Bruno,Pereira,Comunicação,16.0,1,15.0
+202065,Carla,Castelo-Branco,Informática,15.0,1,15.0
+2003122714,Lucas,Pires,Comunicação,18.0,1,10.0
+20036078,Rita,Sampaio,Comunicação,19.0,1,10.0
+20226384,Sandra,Silva,Comunicação,12.0,1,20.0
+20221153,Catarina,Pereira,Comunicação,17.0,1,10.0
+20071705,Maria,Machado,Comunicação,15.0,1,14.0
+20071485,Miguel,Pereira,Comunicação,11.0,1,19.0
+20211231,Carla,Pereira,Psicologia,17.0,1,13.0
+2007157234,Sandra,Morais,Informática,16.0,1,15.0
+2021739,Bruno,da Silva,Comunicação,14.0,1,14.0
+2003187,Catarina,Castelo-Branco,Comunicação,13.0,1,17.0
+2019161,Diana,Machado,Psicologia,10.0,1,20.0
+20031541,Maria,Cintra,Psicologia,17.0,1,13.0
+20221162,Maria João,Cintra,Comunicação,17.0,1,10.0
+20071023,Rodrigo,Sampaio,Informática,14.0,1,14.0
+2021136442,Rita,Pires,Psicologia,19.0,1,10.0
+2019630,Nuno,Morais,Comunicação,11.0,1,18.0
+20201395,Maria,Machado,Informática,14.0,1,15.0
+2019365,Miguel,Castelo,Informática,10.0,1,20.0
+2007591,Rita,Capicua,Comunicação,18.0,1,11.0
+20031080,Rita,Sampaio,Informática,17.0,1,13.0
+20035815,Carla,Silva,Comunicação,13.0,1,18.0
+20071537,Leonardo,Cintra,Comunicação,20.0,1,10.0
+20211646,Jorge,Sampaio,Psicologia,20.0,1,12.0
+20071746,Sandra,Castelo-Branco,Informática,17.0,1,12.0
+2020855,Rui,Laranjeira,Psicologia,17.0,1,12.0
+2022685,Nuno,da Silva,Informática,16.0,1,16.0
+2019551,Nuno,da Silva,Informática,19.0,1,13.0
+2007276,Christos,Cintra,Informática,11.0,1,17.0
+2003118,Diana,Cintra,Comunicação,11.0,1,17.0
+2007317,Christos,Silva,Informática,11.0,1,19.0
+2003547,Alice,Castelo-Branco,Informática,11.0,1,20.0
+20071671,Rodrigo,Castelo,Comunicação,20.0,1,13.0
+2003183,Marta,Morais,Psicologia,12.0,1,19.0
+2003651,Rodrigo,da Silva,Comunicação,19.0,1,12.0
+20031649,Catarina,Laranjeira,Informática,14.0,1,14.0
+2019168,Rui,Pereira,Informática,18.0,1,11.0
+2003214,Ana,Sampaio,Comunicação,16.0,1,14.0
+20211502,Sandra,Silva,Psicologia,16.0,1,16.0
+2007211,Avelino,Castelo,Psicologia,13.0,1,20.0
+20191429,Lucas,Laranjeira,Psicologia,19.0,1,11.0
+20201477,Catarina,Pires,Informática,10.0,1,20.0
+2019999,Miguel,Castelo-Branco,Comunicação,19.0,1,10.0
+2019321,Sandra,Laranjeira,Informática,13.0,1,20.0
+2007283,Michaelangelo,Machado,Informática,15.0,1,15.0
+20201584,Christos,Pereira,Informática,12.0,1,19.0
+200711051,Patrícia,Laranjeira,Comunicação,19.0,1,13.0
+20201277,Raquel,Machado,Informática,18.0,1,10.0
+2019856,Rui,Castelo-Branco,Comunicação,17.0,1,12.0
+2007404,Maria,Pires,Psicologia,11.0,1,17.0
+202171,Catarina,Machado,Psicologia,18.0,1,11.0
+2019142844,Nuno,Pereira,Comunicação,16.0,1,14.0
+202080,Rodrigo,Pereira,Psicologia,19.0,1,12.0
+20221527,Jorge,Morais,Comunicação,12.0,1,19.0
+20211685,Maria,Cintra,Comunicação,15.0,1,16.0
+2019605,Christos,Morais,Comunicação,19.0,1,12.0
+20211256,Rita,da Silva,Informática,12.0,1,18.0
+20211525,Bruno,Laranjeira,Informática,14.0,1,16.0
+20211486,Christos,Pires,Psicologia,15.0,1,15.0
+20031199,Anne,Castelo-Branco,Psicologia,15.0,1,15.0
+2003349,Bruno,Pereira,Psicologia,17.0,1,11.0
+201925,Alice,da Silva,Psicologia,10.0,1,18.0
+2021545,Patrícia,Cintra,Informática,20.0,1,12.0
+2021656,Rodrigo,Silva,Comunicação,20.0,1,13.0
+2007970,Rita,Machado,Psicologia,10.0,1,18.0
+20201026,Leonardo,Laranjeira,Comunicação,17.0,1,10.0
+2021619,Rui,Cintra,Comunicação,10.0,1,19.0
+20071030,Carla,Silva,Psicologia,16.0,1,14.0
+2019115414,Rita,Capicua,Psicologia,18.0,1,11.0
+2021737,Diana,da Silva,Informática,10.0,1,19.0
+20031618,Leonardo,Pereira,Comunicação,14.0,1,14.0
+2020300,Marta,da Silva,Psicologia,20.0,1,12.0
+2021510,Leonardo,Silva,Comunicação,15.0,1,16.0
+2021370,Marta,da Silva,Psicologia,18.0,1,10.0
+20071693,Pedro,Castelo,Comunicação,10.0,1,19.0
+2007505,Rita,Castelo,Informática,10.0,1,18.0
+2019173,Joana,Castelo,Informática,18.0,1,13.0
+20213528,Avelino,Castelo-Branco,Psicologia,15.0,1,14.0
+20031247,Rita,Silva,Informática,19.0,1,13.0
+201981,Marta,Machado,Comunicação,19.0,1,12.0
+200777,Nuno,Castelo,Comunicação,10.0,1,18.0
+2022272,Maria,Pires,Comunicação,18.0,1,13.0
+2021179,Rodrigo,Silva,Comunicação,12.0,1,20.0
+202093,Avelino,Sampaio,Informática,12.0,1,18.0
+20201669,Maria,Laranjeira,Psicologia,20.0,1,12.0
+2022895,Maria João,Laranjeira,Informática,11.0,1,19.0
+20211613,Christos,Morais,Comunicação,17.0,1,10.0
+2019171610,Anne,Machado,Comunicação,18.0,1,11.0
+2003442,Ana,Cintra,Psicologia,20.0,1,12.0
+2021513,Bruno,Sampaio,Psicologia,14.0,1,14.0
+20221152,Bruno,Machado,Comunicação,17.0,1,11.0
+20211126,Rita,Laranjeira,Comunicação,14.0,1,15.0
+2020403,Nuno,Morais,Comunicação,20.0,1,10.0
+20071181,Ana,Pires,Psicologia,14.0,1,15.0
+2019310,Bruno,Castelo,Informática,18.0,1,10.0
+2007682,Olivia,Laranjeira,Comunicação,10.0,1,19.0
+2020144,Rui,Capicua,Psicologia,20.0,1,12.0
+20201461,Michaelangelo,Pereira,Comunicação,17.0,1,10.0
+2003234,Marta,Morais,Comunicação,13.0,1,17.0
+2022143,Alice,Pires,Informática,20.0,1,13.0
+200741428,Catarina,Pereira,Comunicação,10.0,1,18.0
+2020253,Christos,Pires,Informática,13.0,1,18.0
+2022463,Maria,Capicua,Comunicação,13.0,1,17.0
+20031086,Carla,Cintra,Informática,15.0,1,14.0
+200728,Maria,Silva,Informática,12.0,1,20.0
+200391,Carla,Laranjeira,Psicologia,13.0,1,20.0
+20191114,Bruno,Castelo,Informática,18.0,1,11.0
+2019595,Rita,Castelo-Branco,Informática,10.0,1,19.0
+2020298,Jorge,Sampaio,Informática,10.0,1,20.0
+202145,Sandra,Castelo-Branco,Informática,18.0,1,10.0
+202041134,Raquel,Capicua,Psicologia,11.0,1,17.0
+20218742,Miguel,da Silva,Psicologia,15.0,1,14.0
+2020199,Joana,Machado,Psicologia,10.0,1,19.0
+2019324,Maria,Capicua,Informática,16.0,1,15.0
+202177042,Christos,Castelo-Branco,Informática,15.0,1,15.0
+2019135819,Patrícia,Capicua,Psicologia,19.0,1,11.0
+2021480,Leonardo,Laranjeira,Psicologia,17.0,1,13.0
+2019508,Rodrigo,Morais,Comunicação,10.0,1,20.0
+2019492,Rita,da Silva,Informática,18.0,1,12.0
+2020223,Maria,Pires,Comunicação,14.0,1,16.0
+2003424,Miguel,Morais,Comunicação,15.0,1,16.0
+2019151,Olivia,Castelo-Branco,Psicologia,10.0,1,18.0
+20211067,Rita,Morais,Informática,17.0,1,11.0
+200729,Rodrigo,Cintra,Informática,10.0,1,20.0
+20031411,Ana,Silva,Informática,19.0,1,10.0
+2007604,Olivia,Morais,Comunicação,13.0,1,17.0
+2003824,Rita,Laranjeira,Psicologia,16.0,1,16.0
+20191569,Rita,Morais,Informática,19.0,1,12.0
+2022256,Maria João,Castelo,Informática,15.0,1,14.0
+20221734,Sandra,Cintra,Informática,17.0,1,10.0
+2020332,Rui,Pires,Psicologia,17.0,1,11.0
+2003698,Raquel,Sampaio,Informática,12.0,1,19.0
+202283,Raquel,Castelo-Branco,Psicologia,16.0,1,15.0
+20191198,Joana,Sampaio,Psicologia,17.0,1,12.0
+2022521,Lucas,da Silva,Psicologia,17.0,1,10.0
+2003689,Jorge,Laranjeira,Psicologia,20.0,1,12.0
+2003516,Joana,Capicua,Psicologia,17.0,1,12.0
+2007324,Avelino,da Silva,Comunicação,10.0,1,19.0
+2003610,Maria João,Laranjeira,Informática,14.0,1,14.0
+20211035,Olivia,Laranjeira,Informática,12.0,1,17.0
+202031,Rodrigo,Pereira,Informática,18.0,1,13.0
+20211074,Nuno,Capicua,Psicologia,13.0,1,20.0
+202162,Patrícia,Cintra,Comunicação,14.0,1,16.0
+20191326,Rita,Cintra,Psicologia,19.0,1,13.0
+20191231,Sandra,Sampaio,Informática,17.0,1,12.0
+2020355,Joana,Castelo-Branco,Comunicação,12.0,1,19.0
+2003884,Christos,Machado,Psicologia,13.0,1,20.0
+20211336,Pedro,da Silva,Psicologia,10.0,1,18.0
+20071313,Leonardo,Sampaio,Psicologia,18.0,1,11.0
+2007440,Rita,Laranjeira,Comunicação,13.0,1,18.0
+2021355,Rodrigo,Morais,Psicologia,20.0,1,10.0
+2021331,Miguel,Pires,Informática,17.0,1,10.0
+2003910,Leonardo,Morais,Comunicação,20.0,1,13.0
+20071254,Beatriz,Castelo,Psicologia,18.0,1,13.0
+2019715,Pedro,Morais,Informática,13.0,1,19.0
+200777235,Pedro,Cintra,Comunicação,10.0,1,17.0
+20211149,Joana,Pereira,Informática,16.0,1,14.0
+2021343,Sandra,Pereira,Comunicação,15.0,1,16.0
+2007258,Rui,Castelo,Psicologia,11.0,1,20.0
+20208201,Maria João,Silva,Informática,19.0,1,11.0
+20071406,Rita,Laranjeira,Informática,10.0,1,20.0
+2022863,Leonardo,da Silva,Comunicação,19.0,1,10.0
+2003220,Avelino,da Silva,Comunicação,14.0,1,15.0
+2022963,Raquel,da Silva,Informática,18.0,1,12.0
+2022982,Alice,Pires,Psicologia,15.0,1,14.0
+2019634,Maria,Morais,Comunicação,18.0,1,13.0
+20031151,Rita,Castelo-Branco,Informática,20.0,1,10.0
+20191428,Michaelangelo,Morais,Comunicação,16.0,1,15.0
+20211093,Jorge,Castelo-Branco,Psicologia,11.0,1,20.0
+200354240,Raquel,Laranjeira,Psicologia,20.0,1,13.0
+20211229,Maria,Pires,Psicologia,16.0,1,14.0
+20201336,Bruno,Castelo,Comunicação,15.0,1,15.0
+2022385,Olivia,Castelo,Comunicação,10.0,1,19.0
+20221197,Joana,Silva,Comunicação,12.0,1,19.0
+2022176,Olivia,Machado,Psicologia,15.0,1,15.0
+202159,Rita,Castelo,Informática,10.0,1,18.0
+2022940,Lucas,da Silva,Comunicação,14.0,1,16.0
+2021375,Michaelangelo,Pires,Informática,11.0,1,20.0
+2019994,Diana,da Silva,Comunicação,15.0,1,14.0
+200371,Jorge,Laranjeira,Psicologia,18.0,1,11.0
+2019488,Maria,Pereira,Informática,14.0,1,14.0
+2019553,Christos,Morais,Comunicação,15.0,1,14.0
+201942950,Avelino,Pires,Comunicação,11.0,1,17.0
+2020873,Diana,Pereira,Psicologia,16.0,1,14.0
+2020131,Carla,Morais,Informática,20.0,1,13.0
+2019521,Nuno,Pires,Informática,17.0,1,13.0
+20213844,Nuno,Castelo-Branco,Comunicação,11.0,1,18.0
+200370225,Lucas,Sampaio,Psicologia,20.0,1,12.0
+2021222,Rodrigo,Castelo,Comunicação,11.0,1,18.0
+200714,Rui,Sampaio,Comunicação,17.0,1,12.0
+2021582,Raquel,Morais,Comunicação,16.0,1,14.0
+20211374,Rodrigo,Sampaio,Comunicação,16.0,1,15.0
+20031644,Christos,Sampaio,Psicologia,13.0,1,18.0
+20191565,Avelino,Castelo-Branco,Comunicação,13.0,1,19.0
+2007647,Maria,Cintra,Informática,11.0,1,17.0
+2003977,Anne,Machado,Comunicação,17.0,1,11.0
+2003707,Maria João,Castelo,Comunicação,20.0,1,12.0
+2021987,Leonardo,Sampaio,Comunicação,19.0,1,13.0
+200724248,Rui,Laranjeira,Psicologia,12.0,1,20.0
+20031135,Olivia,Castelo,Informática,20.0,1,13.0
+2020569,Rui,Pereira,Informática,17.0,1,12.0
+2022782,Carla,Sampaio,Psicologia,19.0,1,10.0
+2022613,Avelino,Machado,Psicologia,20.0,1,13.0
+20031726,Alice,Cintra,Comunicação,13.0,1,18.0
+2019814,Jorge,Sampaio,Comunicação,19.0,1,11.0
+20031476,Pedro,Laranjeira,Comunicação,12.0,1,18.0
+2022732,Diana,Cintra,Psicologia,17.0,1,12.0
+20191509,Raquel,Morais,Comunicação,16.0,1,14.0
+2021981,Catarina,Pires,Informática,15.0,1,14.0
+201983534,Joana,Castelo,Comunicação,15.0,1,15.0
+20031249,Diana,Morais,Informática,13.0,1,19.0
+200797522,Maria,Castelo,Psicologia,19.0,1,13.0
+2003777,Raquel,Pires,Psicologia,12.0,1,17.0
+2019101917,Michaelangelo,Pires,Psicologia,12.0,1,18.0
+20221024,Beatriz,Laranjeira,Psicologia,15.0,1,15.0
+20201202,Avelino,Laranjeira,Comunicação,12.0,1,19.0
+2003771,Jorge,Machado,Informática,15.0,1,15.0
+2007752,Christos,Pereira,Comunicação,14.0,1,15.0
+2022381,Christos,Pires,Informática,12.0,1,17.0
+2021143,Christos,Sampaio,Comunicação,14.0,1,14.0
+20219267,Rui,Machado,Psicologia,19.0,1,10.0
+20221100,Jorge,Castelo,Informática,18.0,1,10.0
+20071376,Rui,Laranjeira,Comunicação,20.0,1,13.0
+2020292,Lucas,Laranjeira,Comunicação,16.0,1,14.0
+2020817,Pedro,Machado,Informática,11.0,1,19.0
+2021595,Avelino,Castelo,Informática,15.0,1,16.0
+20191000,Alice,Sampaio,Psicologia,17.0,1,11.0
+2020651,Rita,Cintra,Comunicação,19.0,1,11.0
+2007629,Joana,Pereira,Psicologia,19.0,1,10.0
+20201509,Joana,Castelo,Comunicação,11.0,1,17.0
+20211217,Marta,Silva,Psicologia,18.0,1,12.0
+20201381,Miguel,Pires,Psicologia,20.0,1,12.0
+20221052,Olivia,da Silva,Comunicação,19.0,1,10.0
+20191371,Maria João,Machado,Comunicação,10.0,1,20.0
+200374,Sandra,da Silva,Comunicação,11.0,1,20.0
+20031740,Rita,Morais,Comunicação,11.0,1,17.0
+20071150,Ana,Silva,Informática,11.0,1,19.0
+202259940,Pedro,Castelo,Psicologia,15.0,1,16.0
+2007424,Pedro,da Silva,Comunicação,11.0,1,18.0
+20191492,Maria João,Machado,Psicologia,13.0,1,17.0
+20191086,Jorge,Castelo-Branco,Comunicação,10.0,1,20.0
+20221349,Lucas,Laranjeira,Comunicação,20.0,1,13.0
+2019169,Nuno,Pires,Comunicação,19.0,1,12.0
+20201155,Rui,Capicua,Informática,17.0,1,10.0
+2021560,Sandra,Sampaio,Informática,13.0,1,17.0
+2019939,Pedro,Laranjeira,Informática,17.0,1,13.0
+20031115,Bruno,Laranjeira,Informática,17.0,1,12.0
+2022792,Diana,Morais,Psicologia,10.0,1,18.0
+2019346,Leonardo,Pires,Comunicação,14.0,1,16.0
+2007929,Alice,Castelo-Branco,Psicologia,20.0,1,12.0
+2019363,Diana,da Silva,Psicologia,17.0,1,11.0
+2021523,Christos,Pires,Comunicação,12.0,1,20.0
+20221491,Avelino,Sampaio,Comunicação,10.0,1,20.0
+20201433,Miguel,Silva,Informática,12.0,1,19.0
+202118,Rui,Silva,Informática,19.0,1,11.0
+20191205,Rita,Capicua,Comunicação,11.0,1,18.0
+20191026,Christos,Morais,Informática,16.0,1,16.0
+20191204,Lucas,Machado,Comunicação,16.0,1,14.0
+2020469,Rodrigo,Sampaio,Comunicação,15.0,1,15.0
+2007370,Avelino,da Silva,Comunicação,11.0,1,20.0
+2007745,Marta,Castelo-Branco,Psicologia,18.0,1,10.0
+20201305,Olivia,Morais,Comunicação,14.0,1,14.0
+20191503,Pedro,Laranjeira,Informática,15.0,1,16.0
+20211023,Carla,Pereira,Psicologia,19.0,1,13.0
+20211672,Jorge,Castelo-Branco,Informática,11.0,1,18.0
+20201694,Alice,Castelo,Informática,15.0,1,15.0
+2022113,Rita,Cintra,Informática,18.0,1,13.0
+202213345,Miguel,Pereira,Informática,14.0,1,15.0
+20221702,Pedro,Cintra,Informática,10.0,1,20.0
+20201710,Michaelangelo,Silva,Informática,14.0,1,16.0
+20211282,Patrícia,Pereira,Psicologia,13.0,1,19.0
+2007825,Maria,Castelo-Branco,Informática,14.0,1,15.0
+20221546,Michaelangelo,Capicua,Informática,17.0,1,13.0
+201922148,Jorge,Machado,Comunicação,17.0,1,12.0
+20031705,Bruno,Morais,Psicologia,16.0,1,14.0
+20211166,Maria João,Castelo,Informática,19.0,1,12.0
+2021744,Rita,Cintra,Comunicação,19.0,1,10.0
+20221009,Sandra,Pereira,Psicologia,19.0,1,13.0
+2021102,Carla,Silva,Psicologia,15.0,1,15.0
+20211713,Rodrigo,Castelo,Informática,16.0,1,15.0
+2007999,Bruno,Castelo,Informática,16.0,1,16.0
+201910341,Leonardo,Silva,Comunicação,11.0,1,17.0
+20221054,Maria João,Cintra,Informática,11.0,1,20.0
+2019332,Marta,da Silva,Informática,16.0,1,15.0
+20211545,Miguel,Castelo,Comunicação,16.0,1,15.0
+20201444,Pedro,Machado,Comunicação,17.0,1,10.0
+2003563,Bruno,Pires,Psicologia,20.0,1,12.0
+2003544,Carla,Silva,Comunicação,19.0,1,13.0
+2019617,Bruno,Silva,Psicologia,15.0,1,14.0
+20211528,Rita,Pires,Psicologia,20.0,1,13.0
+2019762,Michaelangelo,Sampaio,Psicologia,14.0,1,14.0
+2022165224,Jorge,Pires,Psicologia,10.0,1,20.0
+20031604,Sandra,Castelo,Informática,20.0,1,13.0
+20201388,Patrícia,Morais,Informática,18.0,1,13.0
+20071243,Bruno,Pires,Informática,14.0,1,14.0
+20191065,Rita,Capicua,Informática,17.0,1,11.0
+20191194,Rui,Morais,Comunicação,11.0,1,20.0
+2019528,Maria,Sampaio,Psicologia,14.0,1,16.0
+20071426,Anne,Morais,Psicologia,17.0,1,13.0
+20191126,Leonardo,Pires,Informática,11.0,1,19.0
+2020547,Anne,Pereira,Psicologia,17.0,1,10.0
+2007759,Avelino,Pereira,Psicologia,14.0,1,14.0
+20211537,Rui,da Silva,Comunicação,19.0,1,11.0
+2003145645,Avelino,Machado,Psicologia,17.0,1,10.0
+2021907,Leonardo,Silva,Psicologia,15.0,1,16.0
+20211350,Christos,Morais,Comunicação,11.0,1,17.0
+2021992,Rita,Capicua,Comunicação,14.0,1,14.0
+2019418,Maria João,Sampaio,Informática,10.0,1,17.0
+2021888,Jorge,Laranjeira,Psicologia,10.0,1,17.0
+2022199,Patrícia,Morais,Comunicação,11.0,1,19.0
+20071286,Jorge,Pires,Psicologia,12.0,1,19.0
+2007570,Sandra,Laranjeira,Informática,13.0,1,20.0
+2007551,Bruno,Capicua,Informática,10.0,1,19.0
+2020297,Lucas,Castelo-Branco,Informática,10.0,1,20.0
+2020642,Bruno,Pires,Comunicação,12.0,1,17.0
+2007988,Joana,Pires,Comunicação,13.0,1,18.0
+2022495,Sandra,Sampaio,Comunicação,14.0,1,14.0
+2021590,Miguel,da Silva,Informática,13.0,1,20.0
+2007153,Miguel,Cintra,Comunicação,17.0,1,13.0
+2007915,Rita,Pereira,Psicologia,16.0,1,15.0
+20191031,Rodrigo,Pires,Informática,16.0,1,16.0
+200333,Alice,Sampaio,Psicologia,11.0,1,17.0
+2021604,Sandra,Capicua,Psicologia,10.0,1,17.0
+20031518,Olivia,Laranjeira,Informática,18.0,1,12.0
+2020676,Maria,Silva,Psicologia,14.0,1,14.0
+201969348,Maria João,Pereira,Psicologia,11.0,1,20.0
+2022364,Michaelangelo,Pires,Psicologia,11.0,1,19.0
+2020441,Beatriz,Sampaio,Comunicação,19.0,1,13.0
+20035813,Leonardo,Castelo,Comunicação,19.0,1,13.0
+20201034,Sandra,Morais,Psicologia,14.0,1,16.0
+20201755,Michaelangelo,Morais,Psicologia,20.0,1,12.0
+2020394,Olivia,Pereira,Comunicação,20.0,1,12.0
+20201358,Raquel,Silva,Comunicação,10.0,1,18.0
+2021657,Leonardo,Cintra,Psicologia,17.0,1,10.0
+20071038,Patrícia,Laranjeira,Psicologia,10.0,1,20.0
+2021612,Avelino,Cintra,Psicologia,18.0,1,10.0
+2020217,Beatriz,Capicua,Psicologia,20.0,1,13.0
+2022237,Joana,Sampaio,Psicologia,14.0,1,15.0
+2003634,Pedro,Capicua,Psicologia,16.0,1,14.0
+20211541,Rita,Laranjeira,Informática,11.0,1,17.0
+20191351,Jorge,Pereira,Psicologia,14.0,1,14.0
+20211315,Patrícia,Pires,Informática,16.0,1,16.0
+200355,Raquel,Cintra,Comunicação,12.0,1,17.0
+2021984,Rodrigo,Pereira,Comunicação,11.0,1,19.0
+200332,Bruno,Machado,Comunicação,18.0,1,10.0
+2019882,Anne,Cintra,Comunicação,15.0,1,16.0
+20031422,Maria João,Machado,Comunicação,12.0,1,19.0
+2022450,Sandra,Silva,Comunicação,18.0,1,10.0
+2019574,Anne,Silva,Psicologia,13.0,1,19.0
+200713638,Anne,Cintra,Comunicação,15.0,1,15.0
+2020858,Lucas,Pires,Psicologia,12.0,1,17.0
+20221066,Rodrigo,Castelo,Psicologia,14.0,1,14.0
+20031572,Rita,Laranjeira,Psicologia,19.0,1,13.0
+20031053,Anne,Silva,Psicologia,18.0,1,13.0
+2019513,Ana,Morais,Psicologia,18.0,1,12.0
+2019257,Rita,Laranjeira,Informática,18.0,1,10.0
+20211001,Bruno,Machado,Comunicação,20.0,1,11.0
+20201029,Leonardo,Capicua,Informática,17.0,1,11.0
+2007104,Rita,Sampaio,Psicologia,14.0,1,16.0
+20071729,Patrícia,Pires,Psicologia,19.0,1,13.0
+2022319,Beatriz,Sampaio,Comunicação,18.0,1,11.0
+2007651,Rita,Capicua,Psicologia,14.0,1,14.0
+2019153826,Beatriz,Silva,Comunicação,14.0,1,16.0
+20191382,Patrícia,da Silva,Psicologia,18.0,1,11.0
+20211159,Miguel,Morais,Informática,14.0,1,15.0
+202228,Jorge,Cintra,Informática,10.0,1,19.0
+20071001,Michaelangelo,Pires,Psicologia,12.0,1,20.0
+20201291,Olivia,da Silva,Psicologia,12.0,1,18.0
+2019316,Diana,Sampaio,Psicologia,19.0,1,13.0
+2020130,Marta,Cintra,Psicologia,18.0,1,10.0
+2022974,Raquel,Sampaio,Psicologia,17.0,1,11.0
+2020999,Sandra,Pereira,Comunicação,18.0,1,11.0
+20221505,Anne,Laranjeira,Psicologia,13.0,1,20.0
+2019381,Carla,Machado,Psicologia,18.0,1,12.0
+2019452,Leonardo,Castelo,Psicologia,13.0,1,20.0
+20201366,Pedro,Machado,Psicologia,20.0,1,13.0
+200719,Maria João,Pereira,Psicologia,10.0,1,19.0
+20031555,Rodrigo,da Silva,Psicologia,10.0,1,19.0
+2003675,Marta,Capicua,Comunicação,19.0,1,10.0
+20201230,Lucas,Sampaio,Psicologia,20.0,1,12.0
+2003850,Rita,Pereira,Comunicação,19.0,1,11.0
+2019869,Alice,Laranjeira,Informática,11.0,1,17.0
+20221093,Patrícia,Pereira,Comunicação,14.0,1,16.0
+20071160,Lucas,Capicua,Informática,12.0,1,20.0
+2020288,Pedro,Capicua,Comunicação,13.0,1,19.0
+2019163820,Diana,da Silva,Comunicação,13.0,1,18.0
